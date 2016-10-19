@@ -10,6 +10,11 @@ Revert back to the old hangouts extension (with floating window chat)
 * Make sure "Developer Mode" is checked
 * Click "Load Unpacked Extension..."
 * Find the unzipped/cloned directory
+* Make sure you disable the official extension
+
+## Notice you might get two alerts
+* Dismiss the disable update Hangouts alert
+* Don't disable developer mode extensions
 
 ## Authors
 * Patricia MAYO TEJEDOR & Sandoche ADITTANE
