@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "ആരംഭിക്കുന്നതിന് Chrome-ൽ സൈൻ ഇൻ ചെയ്യുക."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "വീണ്ടും ശ്രമിക്കുക"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "നിങ്ങൾ ഇന്റർനെറ്റിൽ കണക്‌റ്റുചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തിയതിനുശേഷം വീണ്ടും ശ്രമിക്കുക"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "കണക്ഷന്‍ പിശക്"
+   },
+   "chrome_app_description": {
+      "message": "Hangouts-നുള്ള പുതിയ ഡെസ്‌ക്‌ടോപ്പ് ആപ്പ് ഉപയോഗിച്ച് എപ്പോഴും ആശയവിനിമയത്തിലേർപ്പെടുക."
+   },
+   "chrome_app_exit_detail": {
+      "message": "നിങ്ങൾക്ക് ഈ ഉപകരണത്തിൽ പുതിയ സന്ദേശങ്ങളോ കോളുകളോ ലഭിക്കുകയില്ല"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "നിങ്ങൾക്കിത് ചെറുതാക്കുന്നതിനും സന്ദേശങ്ങളും കോളുകളും തുടർന്നും സ്വീകരിക്കുന്നതിന് തിരഞ്ഞെടുക്കുന്നതിനും കഴിയും."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "ചെറുതാക്കുക‍"
+   },
+   "chrome_app_exit_no": {
+      "message": "വേണ്ട"
+   },
+   "chrome_app_exit_quit": {
+      "message": "പുറത്തുപോവുക"
+   },
+   "chrome_app_exit_title": {
+      "message": "Hangouts-ൽ നിന്ന് പുറത്ത് പോകണമെന്ന് തീർച്ചയാണോ?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "നിങ്ങൾക്ക് Hangouts-ൽ നിന്ന് പുറത്തുകടക്കണോ?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "കൂടുതലറിയുക"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "ഈ അപ്ലിക്കേഷൻ കാലഹരണപ്പെട്ടതാണ്. പുതിയ പതിപ്പ് ലഭ്യമാണ്."
+   },
+   "chrome_app_outdated_title": {
+      "message": "നിങ്ങളുടെ Hangouts Chrome അപ്ലിക്കേഷൻ അപ്‌ഡേറ്റുചെയ്യുക"
+   },
+   "chrome_app_signin_button": {
+      "message": "സൈൻ ഇൻ ചെയ്യുക"
+   },
+   "chrome_app_welcome_message": {
+      "message": "ടെക്‌സ്റ്റും ഫോട്ടോകളും gif-കളും വോയ്‌സും വീഡിയോയും മറ്റും ഉപയോഗിച്ച് സ്വകാര്യ, ഗ്രൂപ്പ് സംഭാഷണങ്ങൾ ആസ്വദിക്കുക."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google-ലേക്ക് കണക്റ്റുചെയ്യാൻ കഴിയുന്നില്ല. നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക."
+   },
+   "chrome_ext_description": {
+      "message": "ഫോട്ടോകളും ഇമോജികളും ഗ്രൂപ്പ് വീഡിയോ കോളുകളും സൗജന്യമായി ഉപയോഗിച്ച് സംഭാഷണങ്ങളെ Hangouts ജീവസുറ്റതാക്കുന്നു."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "അഭിപ്രായങ്ങള്‍"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "നിങ്ങളെ ഒരു ഗ്രൂപ്പ് Hangout വീഡിയോ കോളിലേക്ക് ക്ഷണിച്ചു"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "സൈൻ ഇൻ ചെയ്‌തിട്ടില്ല"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangouts മറ്റ് വിൻഡോകളുടെ മുകളിൽ നിലനിർത്തുക"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts വഴി നിങ്ങൾക്ക് വീഡിയോ കോൾ ചെയ്യുന്നു"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "പശ്ചാത്തല മോഡ് അനുവദിക്കുക"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome ആരംഭിക്കുമ്പോൾ Hangouts-ൽ സൈൻ ഇൻ ചെയ്യുക"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "നില: കണക്റ്റുചെയ്‌തിരിക്കുന്നു\nസന്ദേശങ്ങൾ കാണുന്നില്ല"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "പ്രതികരിക്കൂ"
+   },
+   "quasar_button_apply": {
+      "message": "പ്രയോഗിക്കുക"
+   },
+   "quasar_button_cancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "quasar_button_save": {
+      "message": "ശരി"
+   },
+   "quasar_chat_title": {
+      "message": "$1 പറയുന്നു...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "പേജിലേക്ക് പോകുന്നതിന് ക്ലിക്കുചെയ്യുക..."
+   },
+   "quasar_decline_button_text": {
+      "message": "നിരസിക്കുക"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "പ്ലാറ്റ്ഫോം:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "സ്വകാര്യത പ്രസ്‌താവന"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "വിവരണം, ഉൽപ്പന്ന വിവരങ്ങൾ, അധിക വിവരങ്ങൾ, നിങ്ങളുടെ ഇമെയിൽ വിലാസം എന്നിവ Google-ലേക്ക് അയക്കും. Google ഫീഡ്‌ബാക്ക് സേവന നിബന്ധനകൾ കാണുക. ഈ ഉള്ളടക്കം സമർപ്പിക്കുന്നതിലൂടെ, ഞങ്ങളുടെ ഉൽപ്പന്നങ്ങളും സേവനങ്ങളും മെച്ചപ്പെടുത്തുന്നതിന് ഇത് ഉപയോഗിക്കാനുള്ള അവകാശം നിങ്ങൾ Google-ന് നൽകുന്നു. ഞങ്ങളുടെ സ്വകാര്യതാ നയം കാണുക."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "സിസ്റ്റം വിവരം"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "ഉപയോക്തൃ ഏജന്റ്:"
+   },
+   "quasar_group_chat_title": {
+      "message": "ഗ്രൂപ്പ് ചാറ്റില്‍ നിന്ന്..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 Hangout ചെയ്യുന്നു",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "സഹായം"
+   },
+   "quasar_label_all_notification": {
+      "message": "വിജ്ഞാപനങ്ങള്‍ അപ്രാപ്തമാക്കുക"
+   },
+   "quasar_label_chat_notification": {
+      "message": "ചാറ്റ് വിജ്ഞാപനങ്ങള്‍ അപ്രാപ്തമാക്കുക"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "ടൈം ഔട്ട് ദൈര്‍ഘ്യം (സെക്കന്‍ഡുകളില്‍):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "ചാറ്റ് അറിയിപ്പുകള്‍ ഓട്ടോമാറ്റിക്ക് ആയി ടൈം ഔട്ട് ആകാന്‍ അനുവദിക്കുക"
+   },
+   "quasar_label_tray_icon": {
+      "message": "സിസ്റ്റം ട്രേ ഐക്കണ്‍ കാണിക്കുക"
+   },
+   "quasar_legend_notifications": {
+      "message": "വിജ്ഞാപനങ്ങള്‍"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "അപ്ലിക്കേഷന്‍"
+   },
+   "quasar_menutext_feedback": {
+      "message": "ഫീഡ്‌ബാക്ക്"
+   },
+   "quasar_menutext_quit": {
+      "message": "പുറത്തുകടക്കുക"
+   },
+   "quasar_menutext_settings": {
+      "message": "ഓപ്ഷനുകള്‍"
+   },
+   "quasar_menutext_signout": {
+      "message": "സൈൻ ഔട്ട്"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "അജ്ഞാതം"
+   },
+   "quasar_sign_in": {
+      "message": "സൈൻ ഇൻ ചെയ്യുക"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "സുഹൃത്തുക്കളുമായി സംസാരിച്ചു തുടങ്ങാൻ സൈൻ ഇൻ ചെയ്യുക"
+   },
+   "quasar_tip_connected": {
+      "message": "നില: ബന്ധിപ്പിച്ചു"
+   },
+   "quasar_tip_connecting": {
+      "message": "നില: ബന്ധിപ്പിക്കുന്നു"
+   },
+   "quasar_tip_disconnected": {
+      "message": "നില: വിച്ഛേദിച്ചു"
+   },
+   "quasar_tip_not_load": {
+      "message": "നില: ലോഡിംഗ് പിശക്"
+   },
+   "quasar_tip_not_login": {
+      "message": "നില: പ്രവേശിച്ചിട്ടില്ല"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "നില: വീണ്ടും ബന്ധിപ്പിക്കുന്നു"
+   },
+   "quasar_try_now": {
+      "message": "ഇപ്പോള്‍ ശ്രമിക്കുക"
+   },
+   "quasar_video_details": {
+      "message": "നിങ്ങളെ വീഡിയോ ചാറ്റിൽ വിളിക്കുന്നു"
+   },
+   "quasar_video_title": {
+      "message": "$1 എന്നയാളിൽ നിന്നുള്ള വീഡിയോ കോൾ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "നിങ്ങളെ വിളിക്കുന്നു"
+   },
+   "quasar_voice_title": {
+      "message": "$1 എന്നയാളില്‍ നിന്നുള്ള ശബ്ദ കോള്‍...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

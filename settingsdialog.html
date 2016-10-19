@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="styles/dialog.css">
+    <title></title>
+    <script src="scripts/settings.js"></script>
+  </head>
+
+  <body>
+
+    <div class="goog-top-links">
+      <!-- A link to quasar feedback page -->
+      <a id="feedbackLink"></a>
+      |
+      <!-- A link to quasar help page -->
+      <a id="helpLink" target="_blank"></a>
+    </div>
+
+    <!-- Container of general options -->
+    <div id="paneGeneral">
+      <!-- Related to application settings -->
+      <fieldset class="goog-fieldset" role="group">
+        <legend id="legendApp"></legend>
+
+        <div class="goog-field">
+          <input type="checkbox" name="fieldBrowserStartup"
+                 id="fieldBrowserStartup" class="goog-settings-field">
+          <label for="fieldBrowserStartup" id="labelBrowserStartup"
+                 class="goog-settings-label"></label>
+        </div>
+
+        <div class="goog-field">
+          <input type="checkbox" name="fieldTopMost" id="fieldTopMost"
+                 class="goog-settings-field">
+          <label for="fieldTopMost" id="labelTopMost"
+                 class="goog-settings-label"></label>
+        </div>
+
+        <div class="goog-field">
+          <input type="checkbox" name="fieldTrayIcon" id="fieldTrayIcon"
+                 class="goog-settings-field">
+          <label for="fieldTrayIcon" id="labelTrayIcon"
+                 class="goog-settings-label"></label>
+        </div>
+
+      </fieldset>
+    </div>
+
+    <!--
+      Container of account options: This settings are enabled when user is
+      logged in.
+    -->
+    <div id="paneAccount">
+
+      <!-- Related to destination page settings -->
+      <fieldset class="goog-fieldset" id="fieldsetDestPage" role="group">
+        <legend id="legendDest"></legend>
+
+        <div class="goog-field">
+          <input type="radio" name="fieldDestPage" id="fieldDestPage0"
+                 class="goog-settings-field"/>
+          <label for="fieldDestPage0" id="labelDestPage0"
+                 class="goog-settings-label"></label>
+        </div>
+
+        <div class="goog-field">
+          <input type="radio" name="fieldDestPage" id="fieldDestPage2"
+                 class="goog-settings-field"/>
+          <label for="fieldDestPage2" id="labelDestPage2"
+                 class="goog-settings-label"></label>
+        </div>
+
+        <div class="goog-field">
+          <input type="radio" name="fieldDestPage" id="fieldDestPage1"
+                 class="goog-settings-field"/>
+          <span class="goog-custom-span" role="textbox">
+            <label for="fieldDestPage1" id="labelDestPage1"
+                   class="goog-settings-label"></label>
+            <label class="goog-warning-text" id="customDestWarning"
+                   class="goog-settings-label"></label>
+            <br/>
+            <input type="text" name="fieldDestUrl" id="fieldDestUrl"
+                aria-labelledby="labelDestPage1" class="goog-field-input"/>
+          </span>
+        </div>
+      </fieldset>
+    </div>
+
+    <!-- Buttons to save or discard the changes -->
+    <div class="goog-tabpane-buttons">
+      <button id="buttonSave" tabindex="0">Ok</button>
+      <button id="buttonCancel" tabindex="0">Cancel</button>
+    </div>
+  </body>
+</html>

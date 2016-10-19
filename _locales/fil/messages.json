@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Mag-sign in sa Chrome para magsimula."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Subukang muli"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Tiyakin na nakakonekta ka sa Internet at subukan ulit"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Error sa Koneksiyon"
+   },
+   "chrome_app_description": {
+      "message": "Palaging manatiling konektado sa bagong desktop app para sa Hangouts."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Hindi ka makakatanggap ng mga bagong mensahe o tawag sa device na ito"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Maaari mo ring piliin na i-minimize ito at patuloy na tumanggap ng mga mensahe at tawag."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "I-minimize"
+   },
+   "chrome_app_exit_no": {
+      "message": "Hindi"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Umalis"
+   },
+   "chrome_app_exit_title": {
+      "message": "Sigurado ka bang gusto mong umalis sa Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Gusto mo bang tapusin ang Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Alamin pa"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Luma na ang app na ito. Mayroong available na mas bagong bersyon."
+   },
+   "chrome_app_outdated_title": {
+      "message": "I-update ang iyong Hangouts Chrome app"
+   },
+   "chrome_app_signin_button": {
+      "message": "Mag-sign in"
+   },
+   "chrome_app_welcome_message": {
+      "message": "I-enjoy ang mga pribado at panggrupong pag-uusap na may kasamang teksto, mga larawan, gif, voice, video at higit pa."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Hindi makakonekta sa Google. Pakitingnan ang iyong koneksyon sa internet."
+   },
+   "chrome_ext_description": {
+      "message": "Binubuhay ng Hangouts ang mga pag-uusap gamit ang mga larawan, emoji, at pati ang mga group video call nang libre."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Mga Komento"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Magpadala ng feedback"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "ay nag-imbita sa iyo sa isang pangkat na Hangout video call"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Magpadala ng feedback"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Hindi naka-sign in"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Panatiliin ang Hangouts sa itaas ng ibang mga window"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "ay nagbi-video call sa iyo sa pamamagitan ng Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Pahintulutan ang background mode"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Mag-sign in sa Hangouts kapag nagsimula ang Chrome"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: Konektado\nMga nalaktawang mensahe"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Sagutin"
+   },
+   "quasar_button_apply": {
+      "message": "Ilapat"
+   },
+   "quasar_button_cancel": {
+      "message": "Kanselahin"
+   },
+   "quasar_button_save": {
+      "message": "Ok"
+   },
+   "quasar_chat_title": {
+      "message": "Sabi ni $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "I-click upang pumunta sa pahina..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Tanggihan"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Kanselahin"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Pahayag ng Privacy"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Ipapadala sa Google ang paglalarawan, impormasyon ng produkto, karagdagang impormasyon at ang iyong email address. Tingnan ang Mga Tuntunin ng Serbisyo ng Google Feedback. Sa pamamagitan ng pagsusumite sa nilalamang ito, binibigyan mo ang Google ng karapatang gamitin ito upang mapahusay ang aming mga produkto at serbisyo. Tingnan ang aming Patakaran sa Privacy."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Magpadala ng Feedback"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Impormasyon sa System"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "User Agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Mula sa panggrupong chat ..."
+   },
+   "quasar_hangout_title": {
+      "message": "Si $1 ay nakikipag-hang-out",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Tulong"
+   },
+   "quasar_label_all_notification": {
+      "message": "Huwag paganahin ang mga notification"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Huwag paganahin ang mga notification sa chat"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Tagal ng Timeout (sa segundo):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Payagan ang mga notification ng chat na awtomatikong mag-timeout"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Ipakita ang icon ng system tray"
+   },
+   "quasar_legend_notifications": {
+      "message": "Mga Notification"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Application"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Feedback"
+   },
+   "quasar_menutext_quit": {
+      "message": "Lumabas"
+   },
+   "quasar_menutext_settings": {
+      "message": "Mga Pagpipilian"
+   },
+   "quasar_menutext_signout": {
+      "message": "Mag-sign out"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Hindi-alam"
+   },
+   "quasar_sign_in": {
+      "message": "Mag-sign in"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Mag-sign in upang magsimulang makipag-usap sa mga kaibigan"
+   },
+   "quasar_tip_connected": {
+      "message": "Katayuan: Nakakonekta"
+   },
+   "quasar_tip_connecting": {
+      "message": "Katayuan: Kumokonekta"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Katayuan: Hindi Nakakonekta"
+   },
+   "quasar_tip_not_load": {
+      "message": "Katayuan: Error sa paglo-load"
+   },
+   "quasar_tip_not_login": {
+      "message": "Katayuan: Hindi naka-log in"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Katayuan: Muling Kumokonekta"
+   },
+   "quasar_try_now": {
+      "message": "Subukan ngayon"
+   },
+   "quasar_video_details": {
+      "message": "ay tumatawag sa iyo gamit ang video chat"
+   },
+   "quasar_video_title": {
+      "message": "Video call mula kay $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "ay tumatawag sa iyo"
+   },
+   "quasar_voice_title": {
+      "message": "Voice call mula kay $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

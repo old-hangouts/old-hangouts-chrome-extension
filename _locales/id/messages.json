@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Masuk ke Chrome untuk memulai."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Coba lagi"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Pastikan Anda tersambung ke Internet dan coba lagi."
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Kesalahan Sambungan"
+   },
+   "chrome_app_description": {
+      "message": "Selalu terhubung dengan aplikasi desktop baru untuk Hangouts."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Anda tidak akan menerima pesan atau panggilan baru pada perangkat ini"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Anda juga dapat memilih meminimalkannya dan terus menerima pesan serta panggilan."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimalkan"
+   },
+   "chrome_app_exit_no": {
+      "message": "Tidak"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Keluar"
+   },
+   "chrome_app_exit_title": {
+      "message": "Yakin ingin keluar dari Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Ingin berhenti Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Aplikasi ini kedaluwarsa. Versi yang baru telah tersedia."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Memperbarui aplikasi Hangouts Chrome"
+   },
+   "chrome_app_signin_button": {
+      "message": "Masuk"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Nikmati percakapan pribadi dan grup dengan teks, foto, gif, suara, video, dan sebagainya."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Tidak dapat terhubung dengan Google. Harap periksa sambungan internet Anda."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts menghidupkan percakapan dengan foto, emoji, dan bahkan video call grup secara gratis."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Komentar"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Kirim masukan"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "telah mengundang Anda ke video call Hangout grup"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Kirim masukan"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Belum masuk"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Pertahankan Hangouts di bagian atas jendela lain"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "mengajak Anda melakukan video call melalui Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Izinkan mode latar belakang"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Masuk ke Hangouts saat Chrome memulai"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: Tersambung\nPesan belum dilihat"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Jawab"
+   },
+   "quasar_button_apply": {
+      "message": "Terapkan"
+   },
+   "quasar_button_cancel": {
+      "message": "Batal"
+   },
+   "quasar_button_save": {
+      "message": "Oke"
+   },
+   "quasar_chat_title": {
+      "message": "$1 berkata...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Klik untuk membuka laman..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Tolak"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Batal"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Pernyataan Privasi"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Deskripsi, informasi produk, informasi tambahan, dan alamat email Anda akan dikirim ke Google. Lihat Persyaratan Layanan Google Masukan. Dengan mengirimkan konten ini, Anda memberikan hak kepada Google untuk menggunakannya demi menyempurnakan produk dan layanan kami. Lihat Kebijakan Privasi kami."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Kirim Masukan"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Informasi Sistem"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Agen Pengguna:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Dari chat berkelompok..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 sedang Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Bantuan"
+   },
+   "quasar_label_all_notification": {
+      "message": "Nonaktifkan pemberitahuan"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Nonaktifkan pemberitahuan chat"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Durasi waktu habis (dalam detik):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Izinkan waktu pemberitahuan chat habis secara otomatis"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Tampilkan ikon baki sistem"
+   },
+   "quasar_legend_notifications": {
+      "message": "Notifikasi"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Aplikasi"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Masukan"
+   },
+   "quasar_menutext_quit": {
+      "message": "Keluar"
+   },
+   "quasar_menutext_settings": {
+      "message": "Opsi"
+   },
+   "quasar_menutext_signout": {
+      "message": "Keluar dari Hangouts"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Tidak dikenal"
+   },
+   "quasar_sign_in": {
+      "message": "Masuk"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Masuk untuk mulai mengobrol dengan teman-teman"
+   },
+   "quasar_tip_connected": {
+      "message": "Status: Tersambung"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: Menyambung"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: Terputus"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: Kesalahan saat memuat"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: Belum masuk"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: Menyambung ulang"
+   },
+   "quasar_try_now": {
+      "message": "Coba sekarang juga"
+   },
+   "quasar_video_details": {
+      "message": "memanggil Anda dengan obrolan video"
+   },
+   "quasar_video_title": {
+      "message": "Video call dari $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "memanggil Anda"
+   },
+   "quasar_voice_title": {
+      "message": "Telepon suara dari $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

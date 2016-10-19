@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "登入 Chrome 即可開始使用。"
+   },
+   "chrome_app_connection_error_button": {
+      "message": "再試一次"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "請確認您已連上網際網路，然後再試一次。"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "連線錯誤"
+   },
+   "chrome_app_description": {
+      "message": "透過全新的 Hangouts 電腦版應用程式，隨時與其他人保持聯繫。"
+   },
+   "chrome_app_exit_detail": {
+      "message": "結束之後，您就不會在此裝置上收到新訊息或通話"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "您還可以選擇將 Hangouts 應用程式最小化，持續接收所有訊息和來電。"
+   },
+   "chrome_app_exit_minimize": {
+      "message": "最小化"
+   },
+   "chrome_app_exit_no": {
+      "message": "否"
+   },
+   "chrome_app_exit_quit": {
+      "message": "結束"
+   },
+   "chrome_app_exit_title": {
+      "message": "確定要結束這場 Hangouts 嗎？"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "要離開 Hangouts 嗎？"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "瞭解詳情"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "這個應用程式的版本過舊，目前已有更新的版本可供下載。"
+   },
+   "chrome_app_outdated_title": {
+      "message": "請更新您的 Hangouts Chrome 應用程式"
+   },
+   "chrome_app_signin_button": {
+      "message": "登入"
+   },
+   "chrome_app_welcome_message": {
+      "message": "透過文字、相片、GIF、語音通話和視訊通話等多種功能，在私人和群組對話中盡情暢談。"
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "無法連線至 Google，請檢查您的網際網路連線。"
+   },
+   "chrome_ext_description": {
+      "message": "您可透過 Hangouts 在對話中傳送相片和表情符號，讓聊天內容更加生動活潑，而且還能免費進行群組視訊通話。"
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "留言"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "意見回饋"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "邀請您加入群組 Hangouts 視訊通話"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "意見回饋"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "未登入"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "讓 Hangouts 顯示在所有視窗的最上方"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "正透過 Hangouts 邀您視訊通話"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "允許背景模式"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "在 Chrome 啟動時登入 Hangouts"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "狀態：已連線\n有未讀的訊息"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "接聽"
+   },
+   "quasar_button_apply": {
+      "message": "套用"
+   },
+   "quasar_button_cancel": {
+      "message": "取消"
+   },
+   "quasar_button_save": {
+      "message": "確定"
+   },
+   "quasar_chat_title": {
+      "message": "$1說...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "按一下這裡開啟網頁..."
+   },
+   "quasar_decline_button_text": {
+      "message": "拒絕"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "取消"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "平台："
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "隱私權聲明"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "問題描述、產品資訊、其他資訊以及您的電子郵件地址將會傳送給 Google，詳情請見《Google 意見回饋服務條款》。提交這些內容，即表示您授權 Google 使用這些內容改善我們的產品和服務品質。詳情請見我們的《隱私權政策》。"
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "意見回饋"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "系統資訊"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "使用者代理程式："
+   },
+   "quasar_group_chat_title": {
+      "message": "來自群組通訊..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1正在進行 Hangouts",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "說明"
+   },
+   "quasar_label_all_notification": {
+      "message": "停用通知"
+   },
+   "quasar_label_chat_notification": {
+      "message": "停用即時通訊通知"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "逾時長度 (秒)："
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "允許即時通訊通知自動逾時"
+   },
+   "quasar_label_tray_icon": {
+      "message": "顯示系統匣圖示"
+   },
+   "quasar_legend_notifications": {
+      "message": "通知"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "應用程式"
+   },
+   "quasar_menutext_feedback": {
+      "message": "意見回饋"
+   },
+   "quasar_menutext_quit": {
+      "message": "結束"
+   },
+   "quasar_menutext_settings": {
+      "message": "選項"
+   },
+   "quasar_menutext_signout": {
+      "message": "登出"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "不明"
+   },
+   "quasar_sign_in": {
+      "message": "登入"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "登入後即可與好友交談"
+   },
+   "quasar_tip_connected": {
+      "message": "狀態：已連線"
+   },
+   "quasar_tip_connecting": {
+      "message": "狀態：連線中"
+   },
+   "quasar_tip_disconnected": {
+      "message": "狀態：連線中斷"
+   },
+   "quasar_tip_not_load": {
+      "message": "狀態：載入錯誤"
+   },
+   "quasar_tip_not_login": {
+      "message": "狀態：尚未登入"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "狀態：重新連線中"
+   },
+   "quasar_try_now": {
+      "message": "立即連線"
+   },
+   "quasar_video_details": {
+      "message": "正在使用視訊通訊撥打電話給您"
+   },
+   "quasar_video_title": {
+      "message": "來自$1的視訊通話...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "正在撥打電話給您"
+   },
+   "quasar_voice_title": {
+      "message": "來自$1的語音通話...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

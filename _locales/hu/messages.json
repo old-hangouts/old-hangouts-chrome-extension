@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "A kezdéshez jelentkezzen be a Chrome-ba."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Újra"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Ellenőrizze az internetkapcsolatot, majd próbálja újra."
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Kapcsolódási hiba"
+   },
+   "chrome_app_description": {
+      "message": "Az új, asztali Hangouts alkalmazással mindig kapcsolatban maradhat."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Nem kap új üzeneteket vagy hívásokat ezen az eszközön"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Az alkalmazást minimalizálhatja is, ha továbbra is meg szeretné kapni az üzeneteket és fogadni szeretné a bejövő hívásokat."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Kis méret"
+   },
+   "chrome_app_exit_no": {
+      "message": "Nem"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Kilépés"
+   },
+   "chrome_app_exit_title": {
+      "message": "Biztosan kilép a Hangoutsból?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Ki szeretne lépni a Hangoutsból?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "További tudnivalók"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Az alkalmazás elavult. Elérhető egy újabb verzió."
+   },
+   "chrome_app_outdated_title": {
+      "message": "A Hangouts Chrome-alkalmazás frissítése"
+   },
+   "chrome_app_signin_button": {
+      "message": "Bejelentkezés"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Privát és csoportos beszélgetéseket folytathat, melyekben a szöveges üzenetek mellett küldhet fotókat, GIF-eket, hang- és videoüzenetet és sok mást."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts – $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Nem lehet csatlakozni a Google rendszeréhez. Ellenőrizze az internetkapcsolatot."
+   },
+   "chrome_ext_description": {
+      "message": "Az ingyenes Hangouts szolgáltatás életre keltik a beszélgetéseket. Fotókat oszthat meg, emoji ikonokat küldhet, és csoportos vide..."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Megjegyzések"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Visszajelzés küldése"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "meghívott egy csoportos Hangouts-videohívásba"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Visszajelzés küldése"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Nincs bejelentkezve"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "A Hangouts maradjon a többi ablak felett"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "videohívással hívja Önt a Hangouts szolgáltatásból"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Háttér üzemmód engedélyezése"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Bejelentkezés a Hangouts szolgáltatásba a Chrome indulásakor"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Állapot: Csatlakozva\nNem fogadott üzenetek"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Hívás fogadása"
+   },
+   "quasar_button_apply": {
+      "message": "OK"
+   },
+   "quasar_button_cancel": {
+      "message": "Mégse"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 mondja...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Kattintásra ugrás az oldalra..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Elutasítás"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Mégse"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Operációs rendszer:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Adatvédelmi nyilatkozat"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "A leírást, termékinformációt, további adatokat és e-mail címét elküldjük a Google számára. Tekintse meg a Google Visszajelzés Általános Szerződési Feltételeit. Ennek a tartalomnak a beküldésével megadja a jogot a Google számára, hogy termékei és szolgáltatásai fejlesztésére használja fel azt. Tekintse meg Adatvédelmi irányelveinket."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Visszajelzés küldése"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Rendszeradatok"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Felhasználói ügynök"
+   },
+   "quasar_group_chat_title": {
+      "message": "Csoportos csevegésből..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 részt vesz egy társalgóban",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Súgó"
+   },
+   "quasar_label_all_notification": {
+      "message": "Értesítések kikapcsolása"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Csevegőértesítések kikapcsolása"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Időtúllépés hossza (másodperc):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Az értesítések automatikus időtúllépésének engedélyezése"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Tálcaikon megjelenítése"
+   },
+   "quasar_legend_notifications": {
+      "message": "Értesítések"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Alkalmazás"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Visszajelzés"
+   },
+   "quasar_menutext_quit": {
+      "message": "Kilépés"
+   },
+   "quasar_menutext_settings": {
+      "message": "Beállítások"
+   },
+   "quasar_menutext_signout": {
+      "message": "Kijelentkezés"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Ismeretlen"
+   },
+   "quasar_sign_in": {
+      "message": "Bejelentkezés"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Jelentkezzen be, ha beszélgetni szeretne barátaival"
+   },
+   "quasar_tip_connected": {
+      "message": "Állapot: Csatlakozva"
+   },
+   "quasar_tip_connecting": {
+      "message": "Állapot: Csatlakozás"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Állapot: Leválasztva"
+   },
+   "quasar_tip_not_load": {
+      "message": "Állapot: Betöltési hiba"
+   },
+   "quasar_tip_not_login": {
+      "message": "Állapot: Nincs bejelentkezve"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Állapot: Újracsatlakozás"
+   },
+   "quasar_try_now": {
+      "message": "Próbálkozás"
+   },
+   "quasar_video_details": {
+      "message": "videocsevegésen keresztül hívja"
+   },
+   "quasar_video_title": {
+      "message": "Videohívás $1 felhasználótól...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "hívja Önt"
+   },
+   "quasar_voice_title": {
+      "message": "Audiohívás $1 felhasználótól...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

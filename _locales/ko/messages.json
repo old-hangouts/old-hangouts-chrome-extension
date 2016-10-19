@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "시작하려면 Chrome에 로그인하세요."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "다시 시도"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "인터넷에 연결되어 있는지 확인하고 다시 시도해 주세요."
+   },
+   "chrome_app_connection_error_title": {
+      "message": "연결 오류"
+   },
+   "chrome_app_description": {
+      "message": "새로운 데스크톱 행아웃 앱으로 언제든지 소식을 주고받으세요."
+   },
+   "chrome_app_exit_detail": {
+      "message": "이 기기에서 새 메시지나 전화를 받을 수 없습니다."
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "앱을 최소화하고 메시지와 전화를 계속 받도록 설정할 수 있습니다."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "최소화"
+   },
+   "chrome_app_exit_no": {
+      "message": "아니요"
+   },
+   "chrome_app_exit_quit": {
+      "message": "종료"
+   },
+   "chrome_app_exit_title": {
+      "message": "행아웃을 종료하시겠습니까?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "행아웃을 종료하시겠습니까?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "자세히 알아보기"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "앱 버전이 오래되었습니다. 최신 버전을 이용할 수 있습니다."
+   },
+   "chrome_app_outdated_title": {
+      "message": "행아웃 Chrome 앱 업데이트"
+   },
+   "chrome_app_signin_button": {
+      "message": "로그인"
+   },
+   "chrome_app_welcome_message": {
+      "message": "텍스트, 사진, GIF, 음성, 영상 등을 사용하여 비공개 및 그룹 대화를 즐기세요."
+   },
+   "chrome_app_window_title": {
+      "message": "Google 행아웃 - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google에 연결할 수 없습니다. 인터넷 연결 상태를 확인해 보세요."
+   },
+   "chrome_ext_description": {
+      "message": "행아웃은 사진, 이모티콘, 무료 그룹 화상 통화 기능을 통해 대화에 활기를 불어넣습니다."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "댓글"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "의견 보내기"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "그룹 행아웃 화상 통화에 나를 초대함"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "의견 보내기"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "로그인하지 않았습니다."
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "행아웃 창을 맨 위에 표시"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "행아웃을 통해 나에게 화상 통화를 거는 중"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "백그라운드 모드 허용"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome을 시작할 때 행아웃에 로그인"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "상태: 연결됨\n확인하지 않은 메시지 있음"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google 행아웃"
+   },
+   "quasar_answer_button_text": {
+      "message": "응답"
+   },
+   "quasar_button_apply": {
+      "message": "적용"
+   },
+   "quasar_button_cancel": {
+      "message": "취소"
+   },
+   "quasar_button_save": {
+      "message": "확인"
+   },
+   "quasar_chat_title": {
+      "message": "$1님의 말...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "클릭하여 페이지로 이동..."
+   },
+   "quasar_decline_button_text": {
+      "message": "거부"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "취소"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "플랫폼:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "개인정보 보호 관련 안내"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "설명, 제품 정보, 추가 정보와 이메일 주소가 Google로 전송됩니다. Google 피드백 서비스 약관을 참조하세요. 이 콘텐츠를 제출하면 Google 제품과 서비스를 개선하기 위해 콘텐츠를 사용할 권리를 Google에 부여하는 것입니다. Google 개인정보취급방침을 참조하세요."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "의견 보내기"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "시스템 정보"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "사용자 에이전트:"
+   },
+   "quasar_group_chat_title": {
+      "message": "그룹 채팅 알림..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1님이 행아웃에 참여중입니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "도움말"
+   },
+   "quasar_label_all_notification": {
+      "message": "알림 사용 안함"
+   },
+   "quasar_label_chat_notification": {
+      "message": "채팅 알림 사용 안함"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "시간 제한 길이(초 단위):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "시간초과 후 채팅 알림 자동 종료"
+   },
+   "quasar_label_tray_icon": {
+      "message": "작업 표시줄 아이콘 표시"
+   },
+   "quasar_legend_notifications": {
+      "message": "알림"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "애플리케이션"
+   },
+   "quasar_menutext_feedback": {
+      "message": "의견"
+   },
+   "quasar_menutext_quit": {
+      "message": "종료"
+   },
+   "quasar_menutext_settings": {
+      "message": "옵션"
+   },
+   "quasar_menutext_signout": {
+      "message": "로그아웃"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "알 수 없음"
+   },
+   "quasar_sign_in": {
+      "message": "로그인"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "로그인하여 친구와 대화하기"
+   },
+   "quasar_tip_connected": {
+      "message": "상태: 연결됨"
+   },
+   "quasar_tip_connecting": {
+      "message": "상태: 연결하는 중"
+   },
+   "quasar_tip_disconnected": {
+      "message": "상태: 연결 끊김"
+   },
+   "quasar_tip_not_load": {
+      "message": "상태: 로드 중 오류"
+   },
+   "quasar_tip_not_login": {
+      "message": "상태: 로그인하지 않음"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "상태: 다시 연결하는 중"
+   },
+   "quasar_try_now": {
+      "message": "지금 연결하기"
+   },
+   "quasar_video_details": {
+      "message": "님이 영상 채팅을 통해 전화를 걸고 있습니다."
+   },
+   "quasar_video_title": {
+      "message": "$1님에게서 온 화상 통화...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "님이 전화를 걸고 있습니다."
+   },
+   "quasar_voice_title": {
+      "message": "$1님에게서 온 음성통화...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

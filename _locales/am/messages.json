@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "ለመጀመር በመለያ ወደ Chrome ይግቡ።"
+   },
+   "chrome_app_connection_error_button": {
+      "message": "እንደገና ሞክር"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "ከበይነመረቡ ጋር መገናኘትዎን ያረጋግጡና እንደገና ይሞክሩ"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "የግንኙነት ስህተት"
+   },
+   "chrome_app_description": {
+      "message": "ከአዲሱ የዴስክቶፕ መተግበሪያ ለHangouts ጋር ሁልጊዜ ተገናኝተው ይቆዩ።"
+   },
+   "chrome_app_exit_detail": {
+      "message": "በዚህ መሣሪያ ላይ አዲስ መልዕክቶች ወይም ጥሪዎች አይደርሱዎትም"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "በተጨማሪ ሊያሳንሱት እና መልዕክቶችን እና ጥሪዎችን መቀበልዎን መቀጠል ይችላሉ።"
+   },
+   "chrome_app_exit_minimize": {
+      "message": "አሳንስ"
+   },
+   "chrome_app_exit_no": {
+      "message": "አይ"
+   },
+   "chrome_app_exit_quit": {
+      "message": "ይውጡ"
+   },
+   "chrome_app_exit_title": {
+      "message": "እርግጠኛ ነዎት ከHangouts መውጣት ይፈልጋሉ?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Hangouts ትተው መውጣት ይፈልጋሉ?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "ተጨማሪ ለመረዳት"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "ይህ መተግበሪያ ቀኑ አልፎበታል። በጣም አዲስ ስሪት ማግኘት ይቻላል።"
+   },
+   "chrome_app_outdated_title": {
+      "message": "የእርስዎን Hangouts Chrome መተግበሪያ ያዘምኑ"
+   },
+   "chrome_app_signin_button": {
+      "message": "በመለየያ ግባ"
+   },
+   "chrome_app_welcome_message": {
+      "message": "በጽሑፍ፣ ፎቶዎች፣ gifs፣ ድምጽ፣ ቪድዮ እና ተጨማሪ ነገሮች አማካኝነት በግል እና ቡድን ውይይቶች ይደሰቱ።"
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "ከGoogle ጋር መገናኘት አልተቻለም። እባክዎ የበይነመረብ ግንኙነትዎን ያረጋግጡ።"
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts በፎቶዎች፣ ኢሞጂ፣ እና በነፃ የቡድን ቪድዮ ጥሪዎች አማካኝነት ውይይቶች ላይ ሕይወት ይዝሩባቸው።"
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "አስተያየቶች"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "ግብረመልስዎን ይላኩ"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "ወደ አንድ የቡድን ውይይት ቪድዮ ጥሪ ጋብዘውዎታል"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "ግብረመልስዎን ይላኩ"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "አልገቡም"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangouts ከሌሎች መስኮቶች በላይ ያስቀምጡ"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "በHangouts በኩል እየደወለሉዎ ናቸው"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "የጀርባ ሁነታን ፍቀድ"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome ሲጀምር ወደ Hangouts ይግቡ"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "ሁኔታ፦ ተገናኝቷል\nያመለጡ መልዕክቶች"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "መልስ"
+   },
+   "quasar_button_apply": {
+      "message": "ተግብር"
+   },
+   "quasar_button_cancel": {
+      "message": "ይቅር"
+   },
+   "quasar_button_save": {
+      "message": "እሺ"
+   },
+   "quasar_chat_title": {
+      "message": "$1 የሚለው...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "ወደዚህ ገጽ ለመሄድ ጠቅ አድርግ..."
+   },
+   "quasar_decline_button_text": {
+      "message": "ዝጋ"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "ይቅር"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "የመሣሪያ ስርዓት፦"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "የግላዊነት መግለጫ"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "ማብራሪያው፣ የምርት መረጃው፣ ተጨማሪ መረጃ እና የኢሜይል አድራሻዎ ለGoogle ይላካል። የGoogle ግብረመልስ አገልግሎት ውሉን ይመልከቱ። ይህን ይዘት በማስገባት Google እሱን ተጠቅሞ ምርቶቻችን እና አገልግሎታችን እንዲያሻሽልበት መብት እየሰጡት ነዎት። የግላዊነት መምሪያችንን ይመልከቱ።"
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "ግብረመልስዎን ይላኩ"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "የስርዓት መረጃ"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "የተጠቃሚ ወኪል፦"
+   },
+   "quasar_group_chat_title": {
+      "message": "ከቡድን ውይይት..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 አብሮ ጊዜ እያሳለፈ ነው",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "እገዛ"
+   },
+   "quasar_label_all_notification": {
+      "message": "ማሳወቂያዎችን አሰናክል"
+   },
+   "quasar_label_chat_notification": {
+      "message": "የውይይት ማሳወቂያዎች አሰናክል"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "ጠብቆ የሚቆምበት ርዝመት (በሰከንዶች)፦"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "የውይይት ማሳወቂያዎች በራስ-ሰር ጊዜ ጠብቀው እንዲጠፉ ፍቀድ"
+   },
+   "quasar_label_tray_icon": {
+      "message": "የስርዓት ማስቀመጫ አዶ አሳይ"
+   },
+   "quasar_legend_notifications": {
+      "message": "ማሳወቂያዎች"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "መተግበሪያ"
+   },
+   "quasar_menutext_feedback": {
+      "message": "ግብረመልስ"
+   },
+   "quasar_menutext_quit": {
+      "message": "ዘግተው ይውጡ"
+   },
+   "quasar_menutext_settings": {
+      "message": "አማራጮች"
+   },
+   "quasar_menutext_signout": {
+      "message": "ውጣ"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "ያልታወቀ"
+   },
+   "quasar_sign_in": {
+      "message": "በመለያ ግባ"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "ከጓደኛዎችዎ ጋር ማውራት ለመጀመር ይግቡ"
+   },
+   "quasar_tip_connected": {
+      "message": "ሁኔታ፦ ተገናኝቷል"
+   },
+   "quasar_tip_connecting": {
+      "message": "ሁኔታ፦ በመገናኘት ላይ"
+   },
+   "quasar_tip_disconnected": {
+      "message": "ሁኔታ፦ ግንኙነቱ ተቋርጧል"
+   },
+   "quasar_tip_not_load": {
+      "message": "ሁኔታ፦ የመጫን ስህተት"
+   },
+   "quasar_tip_not_login": {
+      "message": "ሁኔታ፦ አልገባም።"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "ሁኔታ፦ ዳግም በመገናኘት ላይ"
+   },
+   "quasar_try_now": {
+      "message": "አሁን ሞክር"
+   },
+   "quasar_video_details": {
+      "message": "በቪዲዮ ውይይት እየጠራዎት ነው"
+   },
+   "quasar_video_title": {
+      "message": "ከ$1 የቪዲዮ ጥሪ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "እየጠራዎት ነው"
+   },
+   "quasar_voice_title": {
+      "message": "የድምጽ ጥሪ ከ$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

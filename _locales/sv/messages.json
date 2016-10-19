@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Logga in på Chrome för att sätta igång."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Försök igen"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Kontrollera att du är ansluten till internet och försök igen"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Anslutningsfel"
+   },
+   "chrome_app_description": {
+      "message": "Håll kontakten med den nya Hangouts-appen för dator."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Du kommer inte att ta emot nya meddelanden eller samtal på den här enheten"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Du kan också välja att minimera det och fortsätta att ta emot meddelanden och samtal."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimera"
+   },
+   "chrome_app_exit_no": {
+      "message": "Nej"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Avsluta"
+   },
+   "chrome_app_exit_title": {
+      "message": "Är du säker på att du vill avsluta Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Vill du avsluta Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Läs mer"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Denna app är för gammal. En nyare version finns tillgänglig."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Uppdatera din Hangouts-applikation för Chrome"
+   },
+   "chrome_app_signin_button": {
+      "message": "Logga in"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Ta del av privata konversationer och gruppkonversationer med text, bilder, bilder i gif-format, röst, video och mer."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts – $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Det går inte att ansluta till Google. Kontrollera internetanslutningen."
+   },
+   "chrome_ext_description": {
+      "message": "I Hangouts väcks konversationerna till liv med foton, emoji och gruppvideosamtal kostnadsfritt."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Kommentarer"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Skicka feedback"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "har bjudit in dig till ett gruppvideosamtal i en Hangout"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Skicka feedback"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Inte inloggad"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Placera Hangouts ovanpå andra fönster"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "vill ha ett videosamtal med dig via Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Tillåt bakgrundsläge"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Logga in på Hangouts när Chrome startar"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: Ansluten\nMissade meddelanden"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Svara"
+   },
+   "quasar_button_apply": {
+      "message": "Verkställ"
+   },
+   "quasar_button_cancel": {
+      "message": "Avbryt"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 säger...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Klicka för att öppna sidan..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Tacka nej"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Avbryt"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Plattform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Sekretessmeddelande"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Beskrivning, produktinformation, övrig information och din e-postadress skickas till Google. Läs användarvillkoren för Google Feedback. Genom att skicka det här innehållet ger du Google rätten att använda innehållet för att förbättra våra produkter och tjänster. Läs vår sekretesspolicy."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Skicka feedback"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Systeminformation"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Användaragent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Från gruppchatt..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 deltar i en Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Hjälp"
+   },
+   "quasar_label_all_notification": {
+      "message": "Inaktivera meddelanden"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Inaktivera chattmeddelanden"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Längd på tidsgränsen (i sekunder):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Tillåt att chattmeddelanden uppnår tidsgränsen automatiskt"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Visa ikonen i systemfältet"
+   },
+   "quasar_legend_notifications": {
+      "message": "meddelanden"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Program"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Feedback"
+   },
+   "quasar_menutext_quit": {
+      "message": "Avsluta"
+   },
+   "quasar_menutext_settings": {
+      "message": "Alternativ"
+   },
+   "quasar_menutext_signout": {
+      "message": "Logga ut"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Okänt"
+   },
+   "quasar_sign_in": {
+      "message": "Logga in"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Logga in och börja prata med dina vänner"
+   },
+   "quasar_tip_connected": {
+      "message": "Status: Ansluten"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: Ansluter"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: Frånkopplad"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: Fel vid inläsning"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: Inte inloggad"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: Återansluter"
+   },
+   "quasar_try_now": {
+      "message": "Testa nu"
+   },
+   "quasar_video_details": {
+      "message": "ringer dig med videochatten"
+   },
+   "quasar_video_title": {
+      "message": "Videosamtal från $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "ringer dig"
+   },
+   "quasar_voice_title": {
+      "message": "Röstsamtal från $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

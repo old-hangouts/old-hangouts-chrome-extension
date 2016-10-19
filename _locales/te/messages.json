@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "ప్రారంభించడానికి Chromeకి సైన్ ఇన్ చేయండి."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "మళ్లీ ప్రయత్నించు"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "మీరు ఇంటర్నెట్‌కు కనెక్ట్ అయ్యి ఉన్నారని నిర్ధారించుకొని, మళ్లీ ప్రయత్నించండి"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "కనెక్షన్ లోపం"
+   },
+   "chrome_app_description": {
+      "message": "Hangouts కోసం సరికొత్త డెస్క్‌టాప్ అనువర్తనంతో ఎల్లప్పుడూ కనెక్ట్ అయ్యి ఉండండి."
+   },
+   "chrome_app_exit_detail": {
+      "message": "మీరు ఈ పరికరంలో కొత్త సందేశాలను లేదా కాల్‌లను స్వీకరించరు"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "అలాగే మీరు దీన్ని కనిష్టీకరించడానికి ఎంచుకుని, సందేశాలు మరియు కాల్‌లను స్వీకరించడాన్ని కొనసాగించవచ్చు."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "కనిష్టీకరించు"
+   },
+   "chrome_app_exit_no": {
+      "message": "వద్దు"
+   },
+   "chrome_app_exit_quit": {
+      "message": "నిష్క్రమించు"
+   },
+   "chrome_app_exit_title": {
+      "message": "మీరు ఖచ్చితంగా Hangouts నుండి నిష్క్రమించాలనుకుంటున్నారా?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "మీరు Hangouts నుండి నిష్క్రమించాలనుకుంటున్నారా?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "మరింత తెలుసుకోండి"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "ఈ అనువర్తనం గడువు ముగిసింది. కొత్త సంస్కరణ అందుబాటులో ఉంది."
+   },
+   "chrome_app_outdated_title": {
+      "message": "మీ Hangouts Chrome అనువర్తనాన్ని నవీకరించండి"
+   },
+   "chrome_app_signin_button": {
+      "message": "సైన్ ఇన్ చేయి"
+   },
+   "chrome_app_welcome_message": {
+      "message": "వచనం, ఫోటోలు, gifలు, వాయిస్, వీడియో మరియు మరిన్నింటితో ప్రైవేట్ మరియు సమూహ సంభాషణలను ఆస్వాదించండి."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Googleకు కనెక్ట్ చేయడం సాధ్యపడలేదు. దయచేసి మీ ఇంటర్నెట్ కనెక్షన్‌ను తనిఖీ చేయండి."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts ఫోటోలు, ఎమోజి మరియు వీటితో పాటు ఉచిత సమూహ వీడియో కాల్‌లతో సంభాషణలకు జీవాన్ని అందిస్తాయి."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "వ్యాఖ్యలు"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "అభిప్రాయాన్ని పంపండి"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "మిమ్మల్ని సమూహ Hangout వీడియో కాల్‌కు ఆహ్వానించారు"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "అభిప్రాయాన్ని పంపండి"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "సైన్ ఇన్ చేయలేదు"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangoutsను ఇతర విండోల ఎగువన ఉంచు"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts ద్వారా మీకు వీడియో కాల్ చేస్తున్నారు"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "నేపథ్య మోడ్‌ను అనుమతించు"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome ప్రారంభించబడినప్పుడు Hangoutsకు సైన్ ఇన్ చేయి"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "స్థితి: కనెక్ట్ అయ్యింది\nచూడని సందేశాలు"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "సమాధానం"
+   },
+   "quasar_button_apply": {
+      "message": "వర్తింప చెయ్యి"
+   },
+   "quasar_button_cancel": {
+      "message": "రద్దు చెయ్యి"
+   },
+   "quasar_button_save": {
+      "message": "సరే"
+   },
+   "quasar_chat_title": {
+      "message": "$1 అంటున్నారు...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "పేజీకి వెళ్ళడానికి క్లిక్ చెయ్యండి..."
+   },
+   "quasar_decline_button_text": {
+      "message": "తిరస్కరించు"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "రద్దు చేయి"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "ప్లాట్‌ఫారమ్:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "గోప్యతా ప్రకటన"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "వివరణ, ఉత్పత్తి సమాచారం, అదనపు సమాచారం మరియు మీ ఇమెయిల్ చిరునామా Googleకు పంపబడతాయి. Google అభిప్రాయం సేవా నిబంధనలను చూడండి. ఈ కంటెంట్‌ను సమర్పించడం ద్వారా, మీరు దీన్ని మా ఉత్పత్తులను మరియు సేవలను మెరుగుపరచడం కోసం ఉపయోగించడానికి Googleకు హక్కును మంజూరు చేస్తున్నారు. మా గోప్యతా విధానాన్ని చూడండి."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "అభిప్రాయాన్ని పంపండి"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "సిస్టమ్ సమాచారం"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "వినియోగదారు ఏజెంట్:"
+   },
+   "quasar_group_chat_title": {
+      "message": "సమూహ చాట్ నుండి..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 సమావేశంలో ఉన్నారు",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "సహాయం"
+   },
+   "quasar_label_all_notification": {
+      "message": "ప్రకటనలను ఆపివెయ్యి"
+   },
+   "quasar_label_chat_notification": {
+      "message": "చాట్ ప్రకటనలను ఆపివెయ్యి"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "టైమౌట్ గడువు(సెకన్లలో):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "స్వయంచాలకంగా టైమౌట్ కావడానికి చాట్ ప్రకటనలను అనుమతించు"
+   },
+   "quasar_label_tray_icon": {
+      "message": "సిస్టమ్ ట్రే చిహ్నాన్ని చూపించు"
+   },
+   "quasar_legend_notifications": {
+      "message": "ప్రకటనలు"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "అనువర్తనం"
+   },
+   "quasar_menutext_feedback": {
+      "message": "అభిప్రాయం"
+   },
+   "quasar_menutext_quit": {
+      "message": " నిష్క్రమించండి"
+   },
+   "quasar_menutext_settings": {
+      "message": "ఎంపికలు"
+   },
+   "quasar_menutext_signout": {
+      "message": "సైన్ అవుట్ చేయి"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "తెలియదు"
+   },
+   "quasar_sign_in": {
+      "message": "సైన్ ఇన్ చేయి"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "స్నేహితులతో మాట్లాడటం మొదలుపెట్టడానికి సైన్ ఇన్ చేయండి"
+   },
+   "quasar_tip_connected": {
+      "message": "స్థితి: కనెక్ట్ చెయ్యబడింది"
+   },
+   "quasar_tip_connecting": {
+      "message": "స్థితి: కనెక్ట్ చేస్తోంది"
+   },
+   "quasar_tip_disconnected": {
+      "message": "స్థితి: డిస్‌కనెక్ట్ చెయ్యబడింది"
+   },
+   "quasar_tip_not_load": {
+      "message": "స్థితి: లోడ్ చెయ్యడంలో లోపం ఉంది"
+   },
+   "quasar_tip_not_login": {
+      "message": "స్థితి: లాగిన్ చెయ్యలేదు"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "స్థితి: తిరిగి కనెక్ట్ చేస్తోంది"
+   },
+   "quasar_try_now": {
+      "message": "ఇప్పుడు ప్రయత్నించండి"
+   },
+   "quasar_video_details": {
+      "message": "వీరు వీడియో చాట్‌తో మీకు కాల్ చేస్తున్నారు"
+   },
+   "quasar_video_title": {
+      "message": "$1 నుండి వీడియో కాల్...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "వీరు మీకు కాల్ చేస్తున్నారు"
+   },
+   "quasar_voice_title": {
+      "message": "$1 నుండి వాయిస్ కాల్...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

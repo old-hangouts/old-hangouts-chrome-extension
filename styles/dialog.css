@@ -1,0 +1,160 @@
+/**
+ * Copyright 2010 Google Inc. All Rights Reserved.
+ * Author: amitabh@google.com (Amitabh Saikia).
+ */
+
+body {
+  background-color: #fff;
+  font: normal 12px sans-serif;
+  width: 500px;
+  margin: 0;
+  padding: 10px;
+}
+
+fieldset legend { color: #036; }
+
+label, input, li {
+  vertical-align: middle;
+}
+
+textarea {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.goog-top-links {
+  padding: 5px 0px 1px 0px;
+  text-align: right;
+}
+
+.goog-settings-label {
+  color: black;
+}
+
+.goog-settings-field {
+  color: black;
+}
+
+.goog-settings-label-title {
+  font-weight: bold;
+}
+
+.goog-fieldset {
+  border: solid 1px  #ccc;
+  border-radius: 3px;
+  padding: 4px 8px;
+  margin-bottom: 5px;
+}
+
+.goog-subfieldset {
+  border: 0;
+  padding: 4px 20px;
+  margin-bottom: 0px;
+}
+
+.goog-field-multiple {
+  background: #fff;
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+
+.goog-field {
+  background: #fff;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.goog-field > .goog-field {
+  margin-left: 10px;
+}
+
+.goog-field-input {
+  height: 19px;
+  width: 440px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.goog-clear {
+  display: block;
+}
+
+.goog-tabpane-buttons {
+  padding: 2px 20px 1px 0px;
+  text-align: right;
+}
+
+.goog-tabpane {
+  background: #fff;
+  margin: 0;
+  padding-left: 1px;
+  position: relative;
+}
+
+.goog-tabpane-tabs {
+  list-style: none;
+  outline: none;
+  margin-top: 5px;
+  padding: 0;
+  position: relative;
+  border-bottom-width: solid 1px #eee;
+}
+
+.goog-tabpane-tab,
+.goog-tabpane-tab-selected,
+.goog-tabpane-tab-disabled {
+  cursor: pointer;
+  display: block;
+  font: 12px Sans-serif;
+  padding: 3px 20px;
+  background: #eee;
+  border: 1px solid #eee;
+  margin: 0;
+}
+
+.goog-tabpane-top .goog-tabpane-tab,
+.goog-tabpane-top .goog-tabpane-tab-selected,
+.goog-tabpane-top .goog-tabpane-tab-disabled {
+  float: left;
+  border-radius: 5px 5px 0px 0px;
+  border-color: #ccc;
+}
+
+.goog-tabpane-tab-selected {
+  background: #fff;
+  font-weight: bold;
+  border: 1px solid #aaa;
+  border-bottom-width: 0;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.goog-tabpage-tab-disabled {
+  background: #eee;
+  color: gray;
+  border: 1px solid #eee;
+  border-bottom-width: 0;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.goog-tabpane-cont {
+  overflow: auto;
+  background: #fff;
+  padding: 5px 2px 2px 2px;
+  border: solid 1px #eee;
+}
+
+.goog-custom-span {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.goog-warning-text {
+  color: red;
+  padding-left: 10px;
+}
+
+.goog-link-text {
+  color: blue;
+  text-decration: underline;
+}

@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "தொடங்க, Chrome இல் உள்நுழையவும்."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "மீண்டும் முயற்சிக்கவும்"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "இணையத்துடன் இணைக்கப்பட்டுள்ளீர்களா என்பதைச் சரிபார்த்து, மீண்டும் முயற்சிக்கவும்"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "இணைப்புப் பிழை"
+   },
+   "chrome_app_description": {
+      "message": "Hangouts க்கான புதிய டெஸ்க்டாப் பயன்பாட்டைப் பயன்படுத்தி எப்போதும் இணைந்திருங்கள்."
+   },
+   "chrome_app_exit_detail": {
+      "message": "இந்தச் சாதனத்தில் புதிய செய்திகளையோ, அழைப்புகளையோ பெறமாட்டீர்கள்"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "இதைச் சிறிதாக்கவும் தேர்வுசெய்யலாம் மற்றும் செய்திகளையும் அழைப்புகளையும் தொடர்ந்து பெறலாம்."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "சிறிதாக்கு"
+   },
+   "chrome_app_exit_no": {
+      "message": "வேண்டாம்"
+   },
+   "chrome_app_exit_quit": {
+      "message": "வெளியேறு"
+   },
+   "chrome_app_exit_title": {
+      "message": "Hangouts இலிருந்து வெளியேற விரும்புகிறீர்களா?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Hangouts இலிருந்து வெளியேற வேண்டுமா?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "மேலும் அறிக"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "இது காலாவதியான பயன்பாடு. புதிய பதிப்பு உள்ளது."
+   },
+   "chrome_app_outdated_title": {
+      "message": "உங்கள் Hangouts Chrome பயன்பாட்டைப் புதுப்பிக்கவும்"
+   },
+   "chrome_app_signin_button": {
+      "message": "உள்நுழைக"
+   },
+   "chrome_app_welcome_message": {
+      "message": "தனிப்பட்ட மற்றும் குழு உரையாடல்களில் உரைச் செய்தி, படங்கள், gifகள், குரல், வீடியோ, மேலும் பலவற்றைப் பயன்படுத்தி மகிழலாம்."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google உடன் இணைக்க முடியவில்லை. உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்."
+   },
+   "chrome_ext_description": {
+      "message": "புகைப்படங்கள், ஈமோஜி மூலம் உரையாடல்களுக்கு Hangouts உயிரோட்டமளிக்கிறது, மேலும் இலவசமாக குழு வீடியோ அழைப்புகளையும் மேற்கொள்ளலாம்."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "கருத்துகள்"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Googleக்கு உங்கள் கருத்தை அனுப்புக"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "குழு Hangout வீடியோ அழைப்பிற்கு உங்களை அழைத்துள்ளார்"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Googleக்கு உங்கள் கருத்தை அனுப்புக"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "உள்நுழைந்திருக்கவில்லை"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "பிற சாளரங்களின் மேல்பகுதியில் Hangouts ஐ வை"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts வீடியோ மூலம் அழைக்கிறார்"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "பின்புலப் பயன்முறையை அனுமதி"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome தொடங்கும்போது Hangouts இல் உள்நுழை"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "நிலை: இணைக்கப்பட்டது\nதவறிய செய்திகள்"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "பதிலளி"
+   },
+   "quasar_button_apply": {
+      "message": "பயன்படுத்துக"
+   },
+   "quasar_button_cancel": {
+      "message": "ரத்துசெய்"
+   },
+   "quasar_button_save": {
+      "message": "சரி"
+   },
+   "quasar_chat_title": {
+      "message": "$1 கூறுகிறார்...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "பக்கத்திற்குச் செல்ல கிளிக் செய்க..."
+   },
+   "quasar_decline_button_text": {
+      "message": "நிராகரி"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "ரத்துசெய்"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "இயங்குதளம்:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "தனியுரிமை அறிக்கை"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "விளக்கம், தயாரிப்புத் தகவல், கூடுதல் தகவல் மற்றும் உங்கள் மின்னஞ்சல் முகவரி ஆகியவை Google க்கு அனுப்பப்படும். Google Feedback சேவை விதிமுறைகளைப் பார்க்கவும். இந்த உள்ளடக்கத்தைச் சமர்ப்பிப்பதன் மூலம், எங்கள் தயாரிப்புகள் மற்றும் சேவைகளை மேம்படுத்துவதற்கு அதைப் பயன்படுத்தும் உரிமையை Google க்கு வழங்குகிறீர்கள். எங்கள் தனியுரிமைக் கொள்கையைப் பார்க்கவும்."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Googleக்கு உங்கள் கருத்தை அனுப்புக"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "கணினித் தகவல்"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "பயனர் முகவர்:"
+   },
+   "quasar_group_chat_title": {
+      "message": "குழு அரட்டையிலிருந்து..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 ஹேங் அவுட்டில் உள்ளார்",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "உதவி"
+   },
+   "quasar_label_all_notification": {
+      "message": "அறிவிப்பான்களை முடக்கு"
+   },
+   "quasar_label_chat_notification": {
+      "message": "அரட்டை அறிவிப்புகளை முடக்கு"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "முடிவுநேர அளவு(வினாடிகளில்):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "அரட்டை தெரிவிப்பான்கள் காலம் கடந்ததும் தானாக முடிவதற்கு அனுமதிக்கவும்"
+   },
+   "quasar_label_tray_icon": {
+      "message": "கணினியின் ட்ரே ஐகானைக் காண்பி"
+   },
+   "quasar_legend_notifications": {
+      "message": "அறிவிக்கைகள்"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "பயன்பாடு"
+   },
+   "quasar_menutext_feedback": {
+      "message": "உங்கள் கருத்து"
+   },
+   "quasar_menutext_quit": {
+      "message": "வெளியேறு"
+   },
+   "quasar_menutext_settings": {
+      "message": "விருப்பத்தேர்வுகள்"
+   },
+   "quasar_menutext_signout": {
+      "message": "Hangouts இலிருந்து வெளியேறு"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "பெயரிடப்படாதவர்"
+   },
+   "quasar_sign_in": {
+      "message": "உள்நுழைக"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "நண்பர்களுடன் பேச உள்நுழையவும்"
+   },
+   "quasar_tip_connected": {
+      "message": "நிலை: இணைக்கப்பட்டது"
+   },
+   "quasar_tip_connecting": {
+      "message": "நிலை: இணைக்கிறது"
+   },
+   "quasar_tip_disconnected": {
+      "message": "நிலை: துண்டிக்கப்பட்டது"
+   },
+   "quasar_tip_not_load": {
+      "message": "நிலை: ஏற்றுவதில் பிழை"
+   },
+   "quasar_tip_not_login": {
+      "message": "நிலை: உள்நுழையவில்லை"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "நிலை: மீண்டும் இணைக்கிறது"
+   },
+   "quasar_try_now": {
+      "message": "இப்போது முயற்சிசெய்க"
+   },
+   "quasar_video_details": {
+      "message": "வீடியோ அரட்டைக்கு உங்களை அழைக்கிறார்"
+   },
+   "quasar_video_title": {
+      "message": "$1 என்பவரிடமிருந்து வரும் வீடியோ அழைப்பு...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "உங்களை அழைக்கிறார்"
+   },
+   "quasar_voice_title": {
+      "message": "$1 என்பவரிடமிருந்து வரும் குரல் அழைப்பு...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

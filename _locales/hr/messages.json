@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Prijavite se u Chrome da biste započeli."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Pokušaj ponovno"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Provjerite jeste li povezani s internetom i pokušajte ponovno"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Pogreška pri povezivanju"
+   },
+   "chrome_app_description": {
+      "message": "Budite uvijek povezani uz novu računalnu aplikaciju Hangouts."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Nećete primati nove poruke niti pozive na ovaj uređaj."
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Možete ga i minimizirati te nastaviti primati poruke i pozive."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimiziraj"
+   },
+   "chrome_app_exit_no": {
+      "message": "Ne"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Zatvori"
+   },
+   "chrome_app_exit_title": {
+      "message": "Jeste li sigurni da želite zatvoriti Hangout?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Želite li napustiti Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Saznajte više"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Aplikacija je zastarjela. Dostupna je novija verzija."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Ažurirajte aplikaciju Hangouts za Chrome"
+   },
+   "chrome_app_signin_button": {
+      "message": "Prijava"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Uživajte u privatnim i grupnim razgovorima s tekstom, fotografijama, .gif slikama, glasom, videozapisima i ostalim."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Povezivanje s Googleom nije moguće. Provjerite internetsku vezu."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts oživljava razgovore uz fotografije, emotikone pa čak i besplatne grupne videopozive."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Komentari"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Slanje povratnih informacija"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "poziva vas u grupni videopoziv u Hangoutu"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Slanje povratnih informacija"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Niste prijavljeni"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Drži Hangouts iznad ostalih prozora"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "zove vas videopozivom putem Hangoutsa"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Omogući pozadinski način rada"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Prijavi me u značajku Hangouts prilikom pokretanja preglednika Chrome"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: povezano\nImate propuštene poruke"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Odgovori"
+   },
+   "quasar_button_apply": {
+      "message": "Primijeni"
+   },
+   "quasar_button_cancel": {
+      "message": "Odustani"
+   },
+   "quasar_button_save": {
+      "message": "U redu"
+   },
+   "quasar_chat_title": {
+      "message": "$1 kaže...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Kliknite za odlazak na stranicu..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Odbijam"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Odustani"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platforma:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Izjava o zaštiti privatnosti"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Opis, podaci o proizvodu, dodatne informacije i vaša e-adresa bit će poslani Googleu. Pogledajte Uvjete pružanja usluge za Google povratne informacije. Slanjem ovog sadržaja dajete Googleu pravo da ga upotrijebi za poboljšavanje svojih proizvoda i usluga. Pogledajte naša Pravila o privatnosti."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Pošalji povratne informacije"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Podaci sustava"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Predstavnik korisnika:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Iz grupnog chata..."
+   },
+   "quasar_hangout_title": {
+      "message": "Korisnik $1 druži se u Hangoutu",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Pomoć"
+   },
+   "quasar_label_all_notification": {
+      "message": "Onemogući obavijesti"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Onemogući obavijesti o chatu"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Trajanje privremenog prekida (u sekundama):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Dopusti automatski privremeni prekid obavijesti putem chata"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Pokaži ikonu na programskoj traci"
+   },
+   "quasar_legend_notifications": {
+      "message": "Obavijesti"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Aplikacija"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Povratne informacije"
+   },
+   "quasar_menutext_quit": {
+      "message": "Izlaz"
+   },
+   "quasar_menutext_settings": {
+      "message": "Opcije"
+   },
+   "quasar_menutext_signout": {
+      "message": "Odjava"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Nepoznato"
+   },
+   "quasar_sign_in": {
+      "message": "Prijavite se"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Prijavite se da biste počeli razgovarati s prijateljima"
+   },
+   "quasar_tip_connected": {
+      "message": "Status: povezan"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: povezivanje u tijeku"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: veza je prekinuta"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: pogreška pri učitavanju"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: niste prijavljeni"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: ponovno povezivanje u tijeku"
+   },
+   "quasar_try_now": {
+      "message": "Isprobaj"
+   },
+   "quasar_video_details": {
+      "message": "poziva vas u videopoziv"
+   },
+   "quasar_video_title": {
+      "message": "Videopoziv korisnika $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "zove vas"
+   },
+   "quasar_voice_title": {
+      "message": "Glasovni poziv korisnika $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

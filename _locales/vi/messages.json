@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Đăng nhập vào Chrome để bắt đầu."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Thử lại"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Đảm bảo bạn đã kết nối Internet và thử lại"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Lỗi kết nối"
+   },
+   "chrome_app_description": {
+      "message": "Luôn giữ kết nối với ứng dụng Hangouts mới dành cho máy tính để bàn."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Bạn sẽ không nhận được cuộc gọi hoặc tin nhắn mới trên thiết bị này"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Bạn cũng có thể chọn thu nhỏ ứng dụng và tiếp tục nhận tin nhắn và cuộc gọi."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Thu nhỏ"
+   },
+   "chrome_app_exit_no": {
+      "message": "Không"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Thoát"
+   },
+   "chrome_app_exit_title": {
+      "message": "Bạn có chắc chắn muốn thoát Hangouts không?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Bạn có muốn thoát Hangouts không?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Tìm hiểu thêm"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Ứng dụng này đã lỗi thời. Hiện đã có phiên bản mới hơn."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Cập nhật ứng dụng Hangouts dành cho Chrome của bạn"
+   },
+   "chrome_app_signin_button": {
+      "message": "Đăng nhập"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Trải nghiệm cuộc trò chuyện riêng tư và nhóm với văn bản, ảnh, quà tặng, thoại, video và hơn thế nữa."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Không thể kết nối với Google. Vui lòng kiểm tra kết nối internet của bạn."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts làm cho cuộc trò chuyện trở nên sống động với ảnh, biểu tượng cảm xúc và cả các cuộc gọi điện video nhóm miễn phí."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Nhận xét"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Gửi phản hồi"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "đã mời bạn tham gia cuộc gọi điện video Hangout nhóm"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Gửi phản hồi"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Chưa đăng nhập"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Giữ Hangouts ở đầu các cửa sổ khác"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "đang gọi điện video cho bạn qua Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Cho phép chế độ nền"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Đăng nhập vào Hangouts khi Chrome khởi động"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Trạng thái: Kết nối\nTin nhắn đã bỏ lỡ"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Trả lời"
+   },
+   "quasar_button_apply": {
+      "message": "Áp dụng"
+   },
+   "quasar_button_cancel": {
+      "message": "Hủy"
+   },
+   "quasar_button_save": {
+      "message": "Ok"
+   },
+   "quasar_chat_title": {
+      "message": "$1 nói...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Nhấp để đi tới trang..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Từ chối"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Hủy"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Nền tảng:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Tuyên bố bảo mật"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Mô tả, thông tin sản phẩm, thông tin bổ sung và địa chỉ email của bạn sẽ được gửi tới Google. Hãy xem Điều khoản dịch vụ của Google Feedback. Bằng cách gửi nội dung này, bạn sẽ cấp cho Google quyền sử dụng nội dung để cải tiến các sản phẩm và dịch vụ của chúng tôi. Hãy xem Chính sách bảo mật của chúng tôi."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Gửi phản hồi"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Thông tin hệ thống"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Tác nhân người dùng:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Từ trò chuyện nhóm..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 đang tham gia hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Trợ giúp"
+   },
+   "quasar_label_all_notification": {
+      "message": "Vô hiệu thông báo"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Vô hiệu thông báo trò chuyện"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Thời gian hết giờ (bằng giây):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Cho phép thông báo trò chuyện tự động hết giờ"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Hiển thị biểu tượng khay hệ thống"
+   },
+   "quasar_legend_notifications": {
+      "message": "Thông báo"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Ứng dụng"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Phản hồi"
+   },
+   "quasar_menutext_quit": {
+      "message": "Thoát"
+   },
+   "quasar_menutext_settings": {
+      "message": "Tùy chọn"
+   },
+   "quasar_menutext_signout": {
+      "message": "Đăng xuất"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Không xác định"
+   },
+   "quasar_sign_in": {
+      "message": "Đăng nhập"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Đăng nhập để bắt đầu trò chuyện với bạn bè"
+   },
+   "quasar_tip_connected": {
+      "message": "Trạng thái: Đã kết nối"
+   },
+   "quasar_tip_connecting": {
+      "message": "Trạng thái: Đang kết nối"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Trạng thái: Đã ngắt kết nối"
+   },
+   "quasar_tip_not_load": {
+      "message": "Trạng thái: Lỗi tải"
+   },
+   "quasar_tip_not_login": {
+      "message": "Trạng thái: Chưa đăng nhập"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Tình trạng: Đang kết nối lại"
+   },
+   "quasar_try_now": {
+      "message": "Thử ngay"
+   },
+   "quasar_video_details": {
+      "message": "đang gọi cho bạn bằng trò chuyện video"
+   },
+   "quasar_video_title": {
+      "message": "Cuộc gọi điện video từ $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "đang gọi bạn"
+   },
+   "quasar_voice_title": {
+      "message": "Cuộc gọi thoại từ $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

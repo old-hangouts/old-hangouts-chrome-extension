@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Alustamiseks logige Chrome'i sisse."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Proovi uuesti"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Veenduge, et teil oleks Interneti-ühendus, ja proovige uuesti"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Ühenduse viga"
+   },
+   "chrome_app_description": {
+      "message": "Kui kasutate Hangoutsi uut töölauarakendust, olete alati ühendatud."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Te ei saa vastu võtta uusi sõnumeid ega kõnesid selles seadmes"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Võite selle ka minimeerida ning saada edasi sõnumeid ja kõnesid."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimeeri"
+   },
+   "chrome_app_exit_no": {
+      "message": "Ei"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Välju"
+   },
+   "chrome_app_exit_title": {
+      "message": "Kas soovite kindlasti Hangoutsist väljuda?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Kas soovite Hangoutsi sulgeda?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Lisateave"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "See rakendus on aegunud. Saadaval on uuem versioon."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Hangoutsi Chrome'i rakenduse värskendamine"
+   },
+   "chrome_app_signin_button": {
+      "message": "Logi sisse"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Saate vestelda privaatselt ja pidada rühmavestlusi, kasutades teksti, fotosid, GIF-faile, häält, videot ja muid võimalusi."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts – $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google'iga ei õnnestu ühendust luua. Kontrollige Interneti-ühendust."
+   },
+   "chrome_ext_description": {
+      "message": "Äratage vestlused Hangoutsis tasuta fotode, emotikonide ja isegi grupivideokõnede abil ellu."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Kommentaarid"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Tagasiside saatmine"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "kutsus teid Hangouti grupivideokõnesse"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Tagasiside saatmine"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Ei ole sisse logitud"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hoia Hangoutsi teiste akende peal"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "kutsub teid Hangoutsi kaudu videokõnesse"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Luba taustarežiim"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Logi Hangoutsi Chrome'i käivitumisel sisse"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Olek: ühendatud\nSaamata jäänud sõnumid"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Vasta"
+   },
+   "quasar_button_apply": {
+      "message": "Rakenda"
+   },
+   "quasar_button_cancel": {
+      "message": "Tühista"
+   },
+   "quasar_button_save": {
+      "message": "Ok"
+   },
+   "quasar_chat_title": {
+      "message": "$1 ütleb...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Lehe külastamiseks klõpsake..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Keeldu"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Tühista"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platvorm:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Privaatsusavaldus"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Google'ile saadetakse kirjeldus, tooteteave, lisateave ja teie e-posti aadress. Vaadake Google'i tagasiside teenusetingimusi. Sisu edastamisega annate Google'ile õiguse seda kasutada oma toodete ja teenuste täiustamiseks. Vaadake meie privaatsuseeskirju."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Saatke tagasisidet"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Süsteemiteave"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Kasutajaagent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Grupivestlusest..."
+   },
+   "quasar_hangout_title": {
+      "message": "Kasutaja $1 on hangoutis",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Abi"
+   },
+   "quasar_label_all_notification": {
+      "message": "Keela märguanded"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Keela vestlusteadistused"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Aegumine (sekunditest):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Luba vestluse märguannetel automaatselt aeguda"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Kuva süsteemisalve ikoon"
+   },
+   "quasar_legend_notifications": {
+      "message": "Märguanded"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Rakendus"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Tagasiside"
+   },
+   "quasar_menutext_quit": {
+      "message": "Välju"
+   },
+   "quasar_menutext_settings": {
+      "message": "Valikud"
+   },
+   "quasar_menutext_signout": {
+      "message": "Logi välja"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Tundmatu"
+   },
+   "quasar_sign_in": {
+      "message": "Logi sisse"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Sõpradega rääkimiseks logige sisse"
+   },
+   "quasar_tip_connected": {
+      "message": "Olek: ühendatud"
+   },
+   "quasar_tip_connecting": {
+      "message": "Olek: ühenduse loomine"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Olek: ühendus on katkenud"
+   },
+   "quasar_tip_not_load": {
+      "message": "Olek: laadimistõrge"
+   },
+   "quasar_tip_not_login": {
+      "message": "Olek: ei ole sisse logitud"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Olek: ühenduse taasloomine"
+   },
+   "quasar_try_now": {
+      "message": "Proovige nüüd"
+   },
+   "quasar_video_details": {
+      "message": "helistab teile videovestluse kaudu"
+   },
+   "quasar_video_title": {
+      "message": "Videokõne kasutajalt $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "helistab teile"
+   },
+   "quasar_voice_title": {
+      "message": "Häälkõne kasutajalt $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

@@ -1,0 +1,40 @@
+/**
+ * Copyright 2010 Google Inc. All Rights Reserved.
+ * Author: amitabh@google.com (Amitabh Saikia).
+ */
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+iframe {
+  border: none;
+  padding: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#retryInfo {
+  display: none;
+  margin: 3px;
+  background: #ffc;
+  border: 1px solid #ffcc35;
+  font-size: 80%;
+  font-family: arial, sans-serif;
+  position: relative;
+  z-index: 1;
+}
+
+#retryInfo p {
+  margin: 3px;
+}

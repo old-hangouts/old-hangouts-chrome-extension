@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Logg på Chrome for å komme i gang."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Prøv på nytt"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Sjekk at du er koblet til Internett, og prøv deretter på nytt"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Tilkoblingsfeil"
+   },
+   "chrome_app_description": {
+      "message": "Med den nye datamaskin-appen for Hangouts kan du holde kontakten hele tiden."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Du kommer ikke til å motta nye meldinger eller anrop på denne enheten"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Du kan også velge å minimere den og fortsette å motta meldinger og anrop."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimer"
+   },
+   "chrome_app_exit_no": {
+      "message": "Nei"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Avslutt"
+   },
+   "chrome_app_exit_title": {
+      "message": "Er du sikker på at du vil avslutte Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Vil du avslutte Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Finn ut mer"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Denne appen er utdatert. En ny versjon er tilgjengelig."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Oppdater Chrome-appen for Hangouts"
+   },
+   "chrome_app_signin_button": {
+      "message": "Logg på"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Ha samtaler privat eller gruppevis ved hjelp av tekst, bilder, GIF-filer, tale, video med mer."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts – $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Kan ikke koble til Google. Sjekk Internett-tilkoblingen din."
+   },
+   "chrome_ext_description": {
+      "message": "Med Hangouts kan du gjøre samtalene mer levende ved hjelp av bilder, emoji-tegn og til og med gruppevideosamtaler – og det koster..."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Kommentarer"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Send tilbakemelding"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "har invitert deg til en Hangouts-gruppevideosamtale"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Send tilbakemelding"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Ikke pålogget"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Behold Hangouts oppå andre vinduer"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "inviterer deg til en videosamtale via Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Tillat bakgrunnsmodus"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Logg på Hangouts når Chrome starter"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: Tilkoblet\nUbesvarte meldinger"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Svar"
+   },
+   "quasar_button_apply": {
+      "message": "Bruk"
+   },
+   "quasar_button_cancel": {
+      "message": "Avbryt"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 sier ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Klikk for å gå til side ..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Avslå"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Avbryt"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Plattform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Personvernerklæring"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Beskrivelsen, produktinformasjonen, tilleggsopplysninger og e-postadressen din sendes til Google. Se vilkårene for Google Feedback . Når du sender inn dette innholdet, gir du samtidig Google tillatelse til å bruke det i arbeidet med å forbedre produkter og tjenester. Se personvernreglene ."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Send tilbakemelding"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Systeminformasjon"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Brukeragent"
+   },
+   "quasar_group_chat_title": {
+      "message": "Fra gruppeprat ..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 er i hangouten",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Hjelp"
+   },
+   "quasar_label_all_notification": {
+      "message": "Deaktiver varsler"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Deaktiver nettpratvarsler"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Tidsavbruddlengde (i sekunder):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Tillat at varslinger om nettprat automatisk går ut på tid"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Vis ikonet i systemstatusfeltet"
+   },
+   "quasar_legend_notifications": {
+      "message": "Varsler"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Program"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Tilbakemelding"
+   },
+   "quasar_menutext_quit": {
+      "message": "Avslutt"
+   },
+   "quasar_menutext_settings": {
+      "message": "Valg"
+   },
+   "quasar_menutext_signout": {
+      "message": "Logg av"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Ukjent"
+   },
+   "quasar_sign_in": {
+      "message": "Logg på"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Logg på for å begynne å snakke med vennene dine"
+   },
+   "quasar_tip_connected": {
+      "message": "Status: Tilkoblet"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: Kobler til"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: frakoblet"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: Innlastingsfeil"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: Ikke logget på"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: Kobler til på nytt"
+   },
+   "quasar_try_now": {
+      "message": "Prøv nå"
+   },
+   "quasar_video_details": {
+      "message": "ringer deg med videonettprat"
+   },
+   "quasar_video_title": {
+      "message": "Videosamtale fra $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "ringer deg"
+   },
+   "quasar_voice_title": {
+      "message": "Taleoppringning fra $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

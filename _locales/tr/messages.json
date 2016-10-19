@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Kullanmaya başlamak için Chrome'da oturum açın."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Tekrar dene"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "İnternet bağlantınızın olduğundan emin olun ve tekrar deneyin"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Bağlantı Hatası"
+   },
+   "chrome_app_description": {
+      "message": "Yeni Hangouts masaüstü uygulaması ile her zaman bağlantıda kalın."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Bu cihazda yeni ileti veya sesli arama almayacaksınız"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Uygulamayı simge durumuna getirebilir ve iletilerle sesli aramaları almaya devam edebilirsiniz."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Simge Durumuna Getir"
+   },
+   "chrome_app_exit_no": {
+      "message": "Hayır"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Çık"
+   },
+   "chrome_app_exit_title": {
+      "message": "Hangouts'tan çıkmak istediğinizden emin misiniz?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Hangouts'tan çıkmak istiyor musunuz?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Bu uygulama eski. Uygulamanın daha yeni bir sürümü mevcut."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Hangouts Chrome uygulamanızı güncelleyin"
+   },
+   "chrome_app_signin_button": {
+      "message": "Oturum aç"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Metin, fotoğraf, gif dosyaları, ses, video vs. ile özel görüşmelerin ve grup görüşmelerinin keyfini çıkarın."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google'a bağlanılamadı. Lütfen İnternet bağlantınızı kontrol edin."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts; fotoğraflar, emoji ve hatta grup video görüşmeleri yardımıyla ücretsiz olarak sohbetlerinize canlılık kazandırır."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Yorumlar"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Geri bildirim gönder"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "sizi grup video görüşmesine davet etti"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Oturum açılmadı"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangouts'u diğer pencerelerin üstünde tut"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts aracılığıyla size video görüşmesi isteği yapıyor"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Arka plan moduna izin ver"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Google Chrome başlatıldığında Hangouts'ta oturum aç"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Durum: Bağlı\nKaçırılan iletiler var"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Yanıtla"
+   },
+   "quasar_button_apply": {
+      "message": "Uygula"
+   },
+   "quasar_button_cancel": {
+      "message": "İptal"
+   },
+   "quasar_button_save": {
+      "message": "Tamam"
+   },
+   "quasar_chat_title": {
+      "message": "$1 diyor...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Sayfaya gitmek için tıklayın..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Reddet"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "İptal"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Gizlilik Bildirimi"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Açıklama, ürün bilgileri, ek bilgiler ve e-posta adresiniz Google'a gönderilecektir. Google Geri Bildirim Aracı Hizmet Şartları'na bakın. Bu içeriği göndererek Google'ın bu bilgileri ürünlerimizi ve hizmetlerimizi iyileştirmek için kullanmasına izni vermiş olursunuz. Gizlilik Politikamıza bakın."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Geri Bildirim Gönder"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Sistem Bilgileri"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "User Agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Grup sohbetinden..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 Hangout yapıyor",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Yardım"
+   },
+   "quasar_label_all_notification": {
+      "message": "Bildirimleri devre dışı bırak"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Sohbet bildirimlerini devre dışı bırak"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Zaman aşımı süresi (saniye):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Sohbet bildirimlerinin otomatik olarak zaman aşımına uğramasına izin ver"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Sistem tepsisi simgesini göster"
+   },
+   "quasar_legend_notifications": {
+      "message": "Bildirimler"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Uygulama"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Geri bildirim"
+   },
+   "quasar_menutext_quit": {
+      "message": "Çıkış"
+   },
+   "quasar_menutext_settings": {
+      "message": "Seçenekler"
+   },
+   "quasar_menutext_signout": {
+      "message": "Oturumu Kapat"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Bilinmiyor"
+   },
+   "quasar_sign_in": {
+      "message": "Oturum aç"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Arkadaşlarınızla konuşmaya başlamak için oturum açın"
+   },
+   "quasar_tip_connected": {
+      "message": "Durum: Bağlı"
+   },
+   "quasar_tip_connecting": {
+      "message": "Durum: Bağlanıyor"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Durum: Bağlantı kesildi"
+   },
+   "quasar_tip_not_load": {
+      "message": "Durum: Yükleme hatası"
+   },
+   "quasar_tip_not_login": {
+      "message": "Durum: Giriş yapılmadı"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Durum: Yeniden bağlanıyor"
+   },
+   "quasar_try_now": {
+      "message": "Şimdi deneyin"
+   },
+   "quasar_video_details": {
+      "message": "sizi, görüntülü sohbeti kullanarak arıyor"
+   },
+   "quasar_video_title": {
+      "message": "$1 adlı kişiden video görüşmesi isteği...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "sizi arıyor"
+   },
+   "quasar_voice_title": {
+      "message": "$1 sesli arama yapıyor...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

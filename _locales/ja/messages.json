@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "開始するには Chrome にログインしてください。"
+   },
+   "chrome_app_connection_error_button": {
+      "message": "再試行"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "インターネットに接続していることを確認して、もう一度お試しください"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "接続エラー"
+   },
+   "chrome_app_description": {
+      "message": "新しいハングアウトのデスクトップ アプリを使うと、いつでも友だちとコミュニケーションを取ることができます。"
+   },
+   "chrome_app_exit_detail": {
+      "message": "この端末では新しいメッセージや通話を受け取りません"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "最小化しておけば、メッセージや通話を引き続き受信できます。"
+   },
+   "chrome_app_exit_minimize": {
+      "message": "最小化"
+   },
+   "chrome_app_exit_no": {
+      "message": "いいえ"
+   },
+   "chrome_app_exit_quit": {
+      "message": "終了"
+   },
+   "chrome_app_exit_title": {
+      "message": "ハングアウトを終了してもよろしいですか？"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "ハングアウトを終了しますか？"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "詳細"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "このアプリは最新ではありません。新しいバージョンを利用できます。"
+   },
+   "chrome_app_outdated_title": {
+      "message": "ハングアウト Chrome アプリの更新"
+   },
+   "chrome_app_signin_button": {
+      "message": "ログイン"
+   },
+   "chrome_app_welcome_message": {
+      "message": "1:1 でもグループでも、文字、写真、GIF、音声、動画などさまざまなスタイルで会話を楽しめます。"
+   },
+   "chrome_app_window_title": {
+      "message": "Google ハングアウト - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google に接続できません。インターネット接続をご確認ください。"
+   },
+   "chrome_ext_description": {
+      "message": "ハングアウトは、写真や絵文字、グループでのビデオ通話を通じて会話を楽しめる無料のコミュニケーション ツールです。"
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "コメント"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "フィードバックを送信"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "さんがグループ ハングアウトでのビデオハングアウトに招待しています"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "フィードバックを送信"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "ログインしていません"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "ハングアウトを常に他のウィンドウより手前に表示する"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "さんからビデオハングアウトの着信です（ハングアウト経由）"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "バックグラウンド モードを許可する"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome の起動時にハングアウトにログイン"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "ステータス: 接続しました\n未読メッセージ"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google ハングアウト"
+   },
+   "quasar_answer_button_text": {
+      "message": "応答"
+   },
+   "quasar_button_apply": {
+      "message": "適用"
+   },
+   "quasar_button_cancel": {
+      "message": "キャンセル"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 さんより...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "クリックしてページにアクセス..."
+   },
+   "quasar_decline_button_text": {
+      "message": "辞退"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "キャンセル"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "プラットフォーム:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "プライバシー ステートメント"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "説明、サービスに関する情報、補足、メール アドレスが Google に送信されます。Google フィードバック利用規約をご覧ください。上記のコンテンツを Google に送信すると、コンテンツを Google のサービスの品質向上に利用する権利を Google に与えることになります。Google のプライバシー ポリシーをご覧ください。"
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "フィードバックを送信"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "システム情報"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "ユーザー エージェント:"
+   },
+   "quasar_group_chat_title": {
+      "message": "グループチャットから..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 さんはハングアウトに参加しています",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "ヘルプ"
+   },
+   "quasar_label_all_notification": {
+      "message": "通知を無効にする"
+   },
+   "quasar_label_chat_notification": {
+      "message": "チャット通知を無効にする"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "タイムアウトの長さ（秒）:"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "チャット通知の自動タイムアウトを許可する"
+   },
+   "quasar_label_tray_icon": {
+      "message": "システム トレイ アイコンを表示"
+   },
+   "quasar_legend_notifications": {
+      "message": "通知"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "アプリケーション"
+   },
+   "quasar_menutext_feedback": {
+      "message": "フイードバック"
+   },
+   "quasar_menutext_quit": {
+      "message": "終了"
+   },
+   "quasar_menutext_settings": {
+      "message": "オプション"
+   },
+   "quasar_menutext_signout": {
+      "message": "ログアウト"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "不明"
+   },
+   "quasar_sign_in": {
+      "message": "ログイン"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "友だちと会話するにはログインしてください"
+   },
+   "quasar_tip_connected": {
+      "message": "ステータス: 接続しました"
+   },
+   "quasar_tip_connecting": {
+      "message": "ステータス: 接続しています"
+   },
+   "quasar_tip_disconnected": {
+      "message": "ステータス: 切断しました"
+   },
+   "quasar_tip_not_load": {
+      "message": "ステータス: 読み込みエラー"
+   },
+   "quasar_tip_not_login": {
+      "message": "ステータス: ログインしていません"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "ステータス: 再接続しています"
+   },
+   "quasar_try_now": {
+      "message": "今すぐ試す"
+   },
+   "quasar_video_details": {
+      "message": "さんからビデオチャットの着信があります"
+   },
+   "quasar_video_title": {
+      "message": "$1 さんからのビデオハングアウト...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "さんから着信です"
+   },
+   "quasar_voice_title": {
+      "message": "$1 さんからの音声通話...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

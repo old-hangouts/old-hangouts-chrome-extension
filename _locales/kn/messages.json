@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "ಪ್ರಾರಂಭಿಸಲು Chrome ಗೆ ಸೈನ್‌ ಇನ್‌ ಮಾಡಿ."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "ನೀವು ಇಂಟರ್ನೆಟ್‌ ಸಂಪರ್ಕ ಹೊಂದಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "ಸಂಪರ್ಕ ದೋಷ"
+   },
+   "chrome_app_description": {
+      "message": "Hangouts  ಹೊಸ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್‌ನೊಂದಿಗೆ ಯಾವಾಗಲೂ ಸಂಪರ್ಕದಲ್ಲಿರಿ."
+   },
+   "chrome_app_exit_detail": {
+      "message": "ಈ ಸಾಧನದಲ್ಲಿ ನೀವು ಹೊಸ ಸಂದೇಶಗಳು ಅಥವಾ ಕರೆಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "ನೀವು ಇದನ್ನು ಕುಗ್ಗಿಸುವುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡು ಸಂದೇಶಗಳು ಹಾಗೂ ಕರೆಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದನ್ನು ಮುಂದುವರಿಸಬಹುದು."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "ಕುಗ್ಗಿಸು"
+   },
+   "chrome_app_exit_no": {
+      "message": "ಇಲ್ಲ"
+   },
+   "chrome_app_exit_quit": {
+      "message": "ತ್ಯಜಿಸು"
+   },
+   "chrome_app_exit_title": {
+      "message": "Hangouts ಅನ್ನು ತ್ಯಜಿಸುವುದು ಖಚಿತವೇ?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Hangouts ತ್ಯಜಿಸಲು ನೀವು ಬಯಸುವಿರಾ?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "ಈ ಅಪ್ಲಿಕೇಶನ್ ಅವಧಿ ಮುಗಿದಿದೆ. ಹೊಸ ಆವೃತ್ತಿ ಲಭ್ಯವಿದೆ."
+   },
+   "chrome_app_outdated_title": {
+      "message": "ನಿಮ್ಮ Hangouts Chrome ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಿಸಿ"
+   },
+   "chrome_app_signin_button": {
+      "message": "ಸೈನ್ ಇನ್ ಮಾಡಿ"
+   },
+   "chrome_app_welcome_message": {
+      "message": "ಪಠ್ಯ ಸಂದೇಶ, ಫೋಟೋಗಳು, gifಗಳು, ಧ್ವನಿ, ವೀಡಿಯೊ ಮತ್ತು ಇನ್ನಷ್ಟು ಸಂಗತಿಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಖಾಸಗಿ ಹಾಗೂ ಗುಂಪು ಸಂವಾದಗಳ ಸಂತೋಷವನ್ನು ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google ಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ."
+   },
+   "chrome_ext_description": {
+      "message": "ಫೋಟೋಗಳು, ಎಮೋಜಿ, ಮತ್ತು ಉಚಿತವಾದ ಗುಂಪು ವೀಡಿಯೊ ಕರೆಗಳೊಂದಿಗೆ Hangouts ಸಂವಾದಗಳಿಗೆ ಜೀವ ತುಂಬುತ್ತದೆ."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "ಕಾಮೆಂಟ್‌ಗಳು"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "ಗುಂಪು Hangout ವೀಡಿಯೊ ಕರೆಗೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸಿದ್ದಾರೆ"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "ಇತರ ವಿಂಡೋಗಳ ಮೇಲ್ಭಾಗದಲ್ಲಿ Hangouts ಇರಿಸಿ"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts ಮೂಲಕ ವೀಡಿಯೊ ಕರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "ಹಿನ್ನೆಲೆ ಮೋಡ್ ಅನ್ನು ಅನುಮತಿಸಿ"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome ಪ್ರಾರಂಭಗೊಂಡಾಗ Hangouts ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "ಸ್ಥಿತಿ: ಸಂಪರ್ಕಿಸಲಾಗಿದೆ\nಸಂದೇಶಗಳು ಕಾಣೆಯಾಗಿವೆ"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "ಉತ್ತರ"
+   },
+   "quasar_button_apply": {
+      "message": "ಅನ್ವಯಿಸು"
+   },
+   "quasar_button_cancel": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "quasar_button_save": {
+      "message": "ಸರಿ"
+   },
+   "quasar_chat_title": {
+      "message": "$1 ಹೇಳುತ್ತಾರೆ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "ಪುಟಕ್ಕೆ ಹೋಗಲು ಕ್ಲಿಕ್ ಮಾಡಿ..."
+   },
+   "quasar_decline_button_text": {
+      "message": "ನಿರಾಕರಿಸು"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "ಗೌಪ್ಯತೆ ಹೇಳಿಕೆ"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "ವಿವರಣೆ, ಉತ್ಪನ್ನ ಮಾಹಿತಿ, ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ ಮತ್ತು ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು Google ಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ. Google ಪ್ರತಿಕ್ರಿಯೆಯ ಸೇವಾ ನಿಯಮಗಳನ್ನು ವೀಕ್ಷಿಸಿ. ಈ ವಿಷಯವನ್ನು ಸಲ್ಲಿಸುವ ಮೂಲಕ ನೀವು ನಮ್ಮ ಉತ್ಪನ್ನ ಮತ್ತು ಸೇವೆಗಳನ್ನು ಸುಧಾರಿಸಲು ಅದನ್ನು ಬಳಸುವ ಹಕ್ಕನ್ನು Google ಗೆ ನೀವು ಅನುಮತಿಸುತ್ತಿರುವಿರಿ. ನಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ವೀಕ್ಷಿಸಿ."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "ಸಿಸ್ಟಮ್ ಮಾಹಿತಿ"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "ಬಳಕೆದಾರ ಏಜೆಂಟ್:"
+   },
+   "quasar_group_chat_title": {
+      "message": "ಗುಂಪು ಚಾಟ್‌ನಿಂದ..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 ಅವರು ಹ್ಯಾಂಗ್ ಔಟ್ ಆಗಿದ್ದಾರೆ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "ಸಹಾಯ"
+   },
+   "quasar_label_all_notification": {
+      "message": "ಅಧಿಸೂಚನೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು"
+   },
+   "quasar_label_chat_notification": {
+      "message": "ಚಾಟ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "ಅವಧಿ ಮೀರುವಿಕೆಯ ಅಳತೆ (ಸೆಕೆಂಡು‌ಗಳಲ್ಲಿ):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅವಧಿ ಪೂರೈಸಲು ಚಾಟ್ ಅಧಿಸೂಚನೆಗಳಿಗೆ ಅನುಮತಿ ನೀಡಿ"
+   },
+   "quasar_label_tray_icon": {
+      "message": "ಸಿಸ್ಟಂ ಟ್ರೇ ಐಕಾನ್ ಅನ್ನು ತೋರಿಸು"
+   },
+   "quasar_legend_notifications": {
+      "message": "ಅಧಿಸೂಚನೆಗಳು"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "ಅಪ್ಲಿಕೇಶನ್"
+   },
+   "quasar_menutext_feedback": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ"
+   },
+   "quasar_menutext_quit": {
+      "message": "ನಿರ್ಗಮನ"
+   },
+   "quasar_menutext_settings": {
+      "message": "ಆಯ್ಕೆಗಳು"
+   },
+   "quasar_menutext_signout": {
+      "message": "ಸೈನ್ ಔಟ್"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "ಅಜ್ಞಾತ"
+   },
+   "quasar_sign_in": {
+      "message": "ಸೈನ್ ಇನ್"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "ಸ್ನೇಹಿತರೊಂದಿಗೆ ಮಾತನಾಡಲು ಸೈನ್ ಇನ್ ಮಾಡಿ"
+   },
+   "quasar_tip_connected": {
+      "message": "ಸ್ಥಿತಿ: ಸಂಪರ್ಕ ಹೊಂದಿದೆ"
+   },
+   "quasar_tip_connecting": {
+      "message": "ಸ್ಥಿತಿ: ಸಂಪರ್ಕ ಹೊಂದುತ್ತಿದೆ"
+   },
+   "quasar_tip_disconnected": {
+      "message": "ಸ್ಥಿತಿ: ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ"
+   },
+   "quasar_tip_not_load": {
+      "message": "ಸ್ಥಿತಿ: ಲೋಡಿಂಗ್‌ ದೋಷ"
+   },
+   "quasar_tip_not_login": {
+      "message": "ಸ್ಥಿತಿ: ಲಾಗ್‌ ಇನ್‌ ಮಾಡಲಾಗಿಲ್ಲ"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "ಸ್ಥಿತಿ: ಮರುಸಂಪರ್ಕ ಹೊಂದುತ್ತಿದೆ"
+   },
+   "quasar_try_now": {
+      "message": "ಇದೀಗ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "quasar_video_details": {
+      "message": "ನಿಮ್ಮನ್ನು ವೀಡಿಯೊ ಚಾಟ್‌ ಮೂಲಕ ಕರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+   },
+   "quasar_video_title": {
+      "message": "$1 ಅವರಿಂದ ವೀಡಿಯೊ ಕರೆ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+   },
+   "quasar_voice_title": {
+      "message": "$1 ರವರಿಂದ ಧ್ವನಿ ಕರೆ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

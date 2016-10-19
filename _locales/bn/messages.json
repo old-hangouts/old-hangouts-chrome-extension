@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "শুরু করতে Chrome এ প্রবেশ করুন করুন৷"
+   },
+   "chrome_app_connection_error_button": {
+      "message": "আবার চেষ্টা করুন"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "আপনি ইন্টারনেটের সাথে সংযুক্ত রয়েছেন তা নিশ্চিত করুন এবং আবার চেষ্টা করুন"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "সংযোগ ত্রুটি"
+   },
+   "chrome_app_description": {
+      "message": "Hangouts -এর জন্য নতুন ডেস্কটপ অ্যাপের সঙ্গে সর্বদা জুড়ে থাকুন।"
+   },
+   "chrome_app_exit_detail": {
+      "message": "আপনি এই ডিভাইসে কোনো নতুন বার্তা বা কলগুলি পাবেন না"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "এছাড়াও আপনি এটিকে ছোট করার জন্য এবং বার্তা ও কলগুলি গ্রহণ করা চালিয়ে যেতে চয়ন করতে পারেন৷"
+   },
+   "chrome_app_exit_minimize": {
+      "message": "ছোট করুন"
+   },
+   "chrome_app_exit_no": {
+      "message": "না"
+   },
+   "chrome_app_exit_quit": {
+      "message": "বন্ধ করুন"
+   },
+   "chrome_app_exit_title": {
+      "message": "আপনি কি Hangouts বন্ধ করার বিষয়ে নিশ্চিত?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "আপনি কি Hangouts থেকে প্রস্থান করতে চান?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "আরো জানুন"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "এই অ্যাপ্লিকেশানটি পুরোনো৷ একটি নতুন সংস্করণ উপলব্ধ রয়েছে৷"
+   },
+   "chrome_app_outdated_title": {
+      "message": "আপনার Hangouts Chrome অ্যাপ্লিকেশান আপডেট করুন"
+   },
+   "chrome_app_signin_button": {
+      "message": "প্রবেশ করুন"
+   },
+   "chrome_app_welcome_message": {
+      "message": "লিখে, gif, ফটো, ভয়েস বা ভিডিও দিয়ে এবং আরো অনেক কিছুর সাথে ব্যক্তিগত বা গোষ্ঠী কথোপকথনগুলি উপভোগ করুন৷"
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Google এ সংযুক্ত করতে পারেনি৷ দয়া করে আপনার ইন্টারনেটের সংযোগ পরিক্ষা করুন৷"
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts বিনামূল্যে ফটো, ইমোজি, এবং এমনকি গোষ্ঠী ভিডিও কলগুলির মাধ্যমে কথোপকথনকে জীবন্ত করে তোলে৷"
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "মন্তব্যগুলি"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "প্রতিক্রিয়া পাঠান"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "গোষ্ঠী Hangout ভিডিও কলে আপনাকে আমন্ত্রণ জানিয়েছে"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "প্রতিক্রিয়া পাঠান"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "প্রবেশ করুন করেননি"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "অন্যান্য উইন্ডোগুলির উপরে Hangouts রাখুন"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "Hangouts এর মাধ্যমে আপনাকে ভিডিও কল করছে"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "পশ্চাদপট মোড অনুমতি"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "যখন Chrome শুরু হবে তখন Hangouts এ প্রবেশ করুন"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "স্থিতি: সংযুক্ত\nমিস করা বার্তাগুলি"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangout"
+   },
+   "quasar_answer_button_text": {
+      "message": "উত্তর"
+   },
+   "quasar_button_apply": {
+      "message": "প্রয়োগ করুন"
+   },
+   "quasar_button_cancel": {
+      "message": "বাতিল"
+   },
+   "quasar_button_save": {
+      "message": "ঠিক আছে"
+   },
+   "quasar_chat_title": {
+      "message": "$1 বলেন...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "পৃষ্ঠাতে যাওয়ার জন্য ক্লিক করুন..."
+   },
+   "quasar_decline_button_text": {
+      "message": "অস্বীকার করুন"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "বাতিল"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "প্লাটফর্ম:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "গোপনীয়তা বিবৃতি"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "বিবরণ, পণ্যের তথ্য, অতিরিক্ত তথ্য, এবং আপনার ইমেল ঠিকানা Google এ পাঠানো হবে৷ Google Feedback এর পরিষেবার শর্তাবলী দেখুন৷ এই সামগ্রীটি জমা দেওয়ার মাধ্যমে আপনি Google কে আমাদের পণ্য ও পরিষেবাগুলির উন্নতি ঘটাতে এটি ব্যবহারের অধিকার প্রদান করবেন৷ আমাদের গোপনীয়তা নীতি দেখুন৷"
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "প্রতিক্রিয়া পাঠান"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "সঞ্চালকের তথ্য"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "ব্যবহারকারী এজেন্ট:"
+   },
+   "quasar_group_chat_title": {
+      "message": "গোষ্ঠী চ্যাট থেকে..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 Hangout করছে৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "সহায়তা"
+   },
+   "quasar_label_all_notification": {
+      "message": "বিজ্ঞপ্তি অক্ষম করুন"
+   },
+   "quasar_label_chat_notification": {
+      "message": "এই বিজ্ঞপ্তি অক্ষম করুন"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "সময় সমাপ্ত দৈর্ঘ্য( সেকেন্ডে):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "চ্যাট বিজ্ঞপ্তিগুলিকে স্বয়ংক্রিয়ভাবে শেষ হওয়ার অনুমতি দিন"
+   },
+   "quasar_label_tray_icon": {
+      "message": "সিস্টেম ট্রে আইকন এখান"
+   },
+   "quasar_legend_notifications": {
+      "message": "বিজ্ঞপ্তিগুলি"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "অ্যাপ্লিকেশান"
+   },
+   "quasar_menutext_feedback": {
+      "message": "প্রতিক্রিয়া"
+   },
+   "quasar_menutext_quit": {
+      "message": "প্রস্থান"
+   },
+   "quasar_menutext_settings": {
+      "message": "বিকল্প"
+   },
+   "quasar_menutext_signout": {
+      "message": "প্রস্থান করুন"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "অজানা"
+   },
+   "quasar_sign_in": {
+      "message": "প্রবেশ করুন"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "বন্ধুদের সাথে কথা বলা শুরু করতে প্রবেশ করুন"
+   },
+   "quasar_tip_connected": {
+      "message": "স্থিতি: সংযুক্ত"
+   },
+   "quasar_tip_connecting": {
+      "message": "স্থিতি:সংযোগ করা হচ্ছে"
+   },
+   "quasar_tip_disconnected": {
+      "message": "স্থিতি:সংযোগ বিছিন্ন হয়েছে"
+   },
+   "quasar_tip_not_load": {
+      "message": "স্থিতি:লোডিং ত্রুটি"
+   },
+   "quasar_tip_not_login": {
+      "message": "স্থিতি:লগ ইন করে নেই"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "স্থিতি:আবার সংযুক্ত হচ্ছে"
+   },
+   "quasar_try_now": {
+      "message": "এখনই চেষ্টা করুন"
+   },
+   "quasar_video_details": {
+      "message": "আপনাকে ভিডিও কলের দ্বারা কল করছে"
+   },
+   "quasar_video_title": {
+      "message": "$1-এর থেকে ভিডিও কল...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "আপনাকে কল করছে"
+   },
+   "quasar_voice_title": {
+      "message": "$1-এর থেকে ভয়েস কল...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

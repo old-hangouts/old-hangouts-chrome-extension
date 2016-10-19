@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "登录Chrome即可开始使用。"
+   },
+   "chrome_app_connection_error_button": {
+      "message": "重试"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "请确保你已连接到互联网，然后重试"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "网络错误"
+   },
+   "chrome_app_description": {
+      "message": "借助全新桌面版环聊应用，时刻与他人保持联系。"
+   },
+   "chrome_app_exit_detail": {
+      "message": "你将无法在此设备上接收新消息或接听电话"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "你也可以选择将其最小化，继续接收消息并接听电话。"
+   },
+   "chrome_app_exit_minimize": {
+      "message": "最小化"
+   },
+   "chrome_app_exit_no": {
+      "message": "否"
+   },
+   "chrome_app_exit_quit": {
+      "message": "退出"
+   },
+   "chrome_app_exit_title": {
+      "message": "确定要退出环聊吗？"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "要退出环聊吗？"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "了解详情"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "此应用已过时，现已有新版本。"
+   },
+   "chrome_app_outdated_title": {
+      "message": "更新你的环聊 Chrome 应用"
+   },
+   "chrome_app_signin_button": {
+      "message": "登录"
+   },
+   "chrome_app_welcome_message": {
+      "message": "通过文字、照片、GIF、语音和视频等畅快地私聊和群聊。"
+   },
+   "chrome_app_window_title": {
+      "message": "Google 环聊 - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "无法连接到 Google，请检查你的互联网连接。"
+   },
+   "chrome_ext_description": {
+      "message": "环聊让对话更生动有趣：不但可以发送图片和表情符，还能免费视频聊天。"
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "评论"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "反馈意见"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "邀请你加入多人视频通话"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "反馈意见"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "未登录"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "将环聊置于其他窗口之前"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "邀请你加入视频通话"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "允许后台运行"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Chrome启动时自动登录环聊"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "状态：已连接\n有错过的消息"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google 环聊"
+   },
+   "quasar_answer_button_text": {
+      "message": "接听"
+   },
+   "quasar_button_apply": {
+      "message": "应用"
+   },
+   "quasar_button_cancel": {
+      "message": "取消"
+   },
+   "quasar_button_save": {
+      "message": "确定"
+   },
+   "quasar_chat_title": {
+      "message": "$1说...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "点击以转至页面..."
+   },
+   "quasar_decline_button_text": {
+      "message": "拒绝"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "取消"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "平台："
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "隐私权声明"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "相关说明、产品信息、其他信息以及你的电子邮件地址均会发送给 Google。请参阅 Google 反馈服务条款。提交此内容即表示你授权 Google 使用此内容来改进我们的产品和服务。请参阅 Google 隐私权政策。"
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "反馈意见"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "系统信息"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "用户代理："
+   },
+   "quasar_group_chat_title": {
+      "message": "来自群聊..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1正在进行环聊",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "帮助"
+   },
+   "quasar_label_all_notification": {
+      "message": "停用通知"
+   },
+   "quasar_label_chat_notification": {
+      "message": "停用聊天通知"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "超时长度（秒）："
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "允许聊天通知自动超时"
+   },
+   "quasar_label_tray_icon": {
+      "message": "显示系统任务栏图标"
+   },
+   "quasar_legend_notifications": {
+      "message": "通知"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "应用"
+   },
+   "quasar_menutext_feedback": {
+      "message": "反馈"
+   },
+   "quasar_menutext_quit": {
+      "message": "退出"
+   },
+   "quasar_menutext_settings": {
+      "message": "选项"
+   },
+   "quasar_menutext_signout": {
+      "message": "退出帐户"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "未知"
+   },
+   "quasar_sign_in": {
+      "message": "登录"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "登录后就能开始与朋友们聊天"
+   },
+   "quasar_tip_connected": {
+      "message": "状态：已连接"
+   },
+   "quasar_tip_connecting": {
+      "message": "状态：正在连接"
+   },
+   "quasar_tip_disconnected": {
+      "message": "状态：连接中断"
+   },
+   "quasar_tip_not_load": {
+      "message": "状态：加载时出错"
+   },
+   "quasar_tip_not_login": {
+      "message": "状态：未登录"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "状态：正在重新连接"
+   },
+   "quasar_try_now": {
+      "message": "立即尝试"
+   },
+   "quasar_video_details": {
+      "message": "希望与你视频聊天"
+   },
+   "quasar_video_title": {
+      "message": "收到$1的视频通话邀请...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "希望与你语音聊天"
+   },
+   "quasar_voice_title": {
+      "message": "来自$1的语音呼叫...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

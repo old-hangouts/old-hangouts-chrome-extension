@@ -1,0 +1,41 @@
+{
+   "background": {
+      "scripts": [ "scripts/main.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images_4/presence/offline_19.png",
+         "38": "images_4/presence/offline_38.png"
+      },
+      "default_title": "__MSG_CHROME_HANGOUTS_SHORT_NAME__"
+   },
+   "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com https://csi.gstatic.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Hangouts",
+   "externally_connectable": {
+      "matches": [ "https://*.google.com/*" ]
+   },
+   "icons": {
+      "128": "images_4/icon-128x128.png",
+      "48": "images_4/icon-48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "44.0.0.0",
+   "name": "Hangouts",
+   "options_page": "settingsdialog.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "settingsdialog.html"
+   },
+   "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*" ],
+   "system_indicator": {
+      "default_icon": {
+         "19": "images_4/presence/offline_19.png",
+         "38": "images_4/presence/offline_38.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2016.809.1413.1",
+   "web_accessible_resources": [ "*" ]
+}

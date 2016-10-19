@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Log in bij Chrome om te beginnen."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Opnieuw proberen"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Controleer of je bent verbonden met internet en probeer het opnieuw"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Verbindingsfout"
+   },
+   "chrome_app_description": {
+      "message": "Blijf altijd in contact met de nieuwe desktop-app voor Hangouts."
+   },
+   "chrome_app_exit_detail": {
+      "message": "Je ontvangt geen nieuwe berichten of oproepen op dit apparaat"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Je kunt de app ook minimaliseren zodat je berichten en gesprekken kunt blijven ontvangen."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimaliseren"
+   },
+   "chrome_app_exit_no": {
+      "message": "Nee"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Sluiten"
+   },
+   "chrome_app_exit_title": {
+      "message": "Weet je zeker dat je Hangouts wilt sluiten?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "Wil je Hangouts sluiten?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Meer informatie"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Deze app is verouderd. Er is een nieuwere versie beschikbaar."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Je Hangouts-app voor Chrome updaten"
+   },
+   "chrome_app_signin_button": {
+      "message": "Inloggen"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Voer privé- en groepsgesprekken met tekst, foto's, GIF-afbeeldingen, spraak, video's en meer."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "Kan geen verbinding maken met Google. Controleer je internetverbinding."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts brengt gesprekken tot leven met foto&#39;s, emoticons en zelfs groepsvideogesprekken, en dat allemaal gratis."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Reacties"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Feedback verzenden"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "heeft je uitgenodigd voor een groepsvideogesprek"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Feedback verzenden"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Niet ingelogd"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangouts op de voorgrond plaatsen"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "wil een videogesprek met je voeren via Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Achtergrondmodus toestaan"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Inloggen bij Hangouts wanneer Chrome wordt gestart"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: verbonden\nBerichten gemist"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Google Hangouts"
+   },
+   "quasar_answer_button_text": {
+      "message": "Antwoord"
+   },
+   "quasar_button_apply": {
+      "message": "Toepassen"
+   },
+   "quasar_button_cancel": {
+      "message": "Annuleren"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 zegt...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Klik om naar de volgende pagina te gaan... "
+   },
+   "quasar_decline_button_text": {
+      "message": "Weigeren"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Annuleren"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Privacyverklaring"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "De beschrijving, productinformatie, aanvullende informatie en uw e-mailadres worden verzonden naar Google. Raadpleeg de Servicevoorwaarden van Google Feedback. Door deze inhoud te verzenden, verleent u Google het recht deze inhoud te gebruiken om onze producten en services te verbeteren. Raadpleeg ons Privacybeleid."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Feedback verzenden"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Systeeminformatie"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "User-agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Uit de groepschat..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 zit in een Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Help"
+   },
+   "quasar_label_all_notification": {
+      "message": "Meldingen uitschakelen"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Chatmeldingen uitschakelen"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Lengte van time-out (in seconden):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Automatische time-out toestaan voor chatmeldingen"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Pictogram van het systeemvak tonen"
+   },
+   "quasar_legend_notifications": {
+      "message": "Meldingen"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Applicatie"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Feedback"
+   },
+   "quasar_menutext_quit": {
+      "message": "Afsluiten"
+   },
+   "quasar_menutext_settings": {
+      "message": "Opties"
+   },
+   "quasar_menutext_signout": {
+      "message": "Uitloggen"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Onbekend"
+   },
+   "quasar_sign_in": {
+      "message": "Inloggen"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Log in om met vrienden te praten"
+   },
+   "quasar_tip_connected": {
+      "message": "Status: verbonden"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: verbinding maken"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: niet verbonden"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: fout bij het laden"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: niet aangemeld"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: opnieuw verbinding maken"
+   },
+   "quasar_try_now": {
+      "message": "Nu proberen"
+   },
+   "quasar_video_details": {
+      "message": "belt je met videochat"
+   },
+   "quasar_video_title": {
+      "message": "Videogesprek van $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "belt je"
+   },
+   "quasar_voice_title": {
+      "message": "Oproep van $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

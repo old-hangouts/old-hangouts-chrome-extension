@@ -1,0 +1,249 @@
+{
+   "chrome_app_chrome_signin_message": {
+      "message": "Para empezar, inicia sesión en Chrome."
+   },
+   "chrome_app_connection_error_button": {
+      "message": "Volver a intentarlo"
+   },
+   "chrome_app_connection_error_detail": {
+      "message": "Confirma que estás conectado a Internet y vuelve a intentarlo"
+   },
+   "chrome_app_connection_error_title": {
+      "message": "Error de conexión"
+   },
+   "chrome_app_description": {
+      "message": "Mantente siempre conectado con la nueva aplicación Hangouts para ordenador"
+   },
+   "chrome_app_exit_detail": {
+      "message": "Dejarás de recibir llamadas y mensajes nuevos en este dispositivo"
+   },
+   "chrome_app_exit_detail_2": {
+      "message": "Si lo minimizas seguirás recibiendo mensajes y llamadas."
+   },
+   "chrome_app_exit_minimize": {
+      "message": "Minimizar"
+   },
+   "chrome_app_exit_no": {
+      "message": "No"
+   },
+   "chrome_app_exit_quit": {
+      "message": "Salir"
+   },
+   "chrome_app_exit_title": {
+      "message": "¿Seguro que quieres salir de Hangouts?"
+   },
+   "chrome_app_exit_title_2": {
+      "message": "¿Quieres salir de Hangouts?"
+   },
+   "chrome_app_learn_more_message": {
+      "message": "Más información"
+   },
+   "chrome_app_outdated_detail": {
+      "message": "Esta aplicación no está actualizada. Hay disponible una versión más reciente."
+   },
+   "chrome_app_outdated_title": {
+      "message": "Actualiza tu aplicación Hangouts de Chrome"
+   },
+   "chrome_app_signin_button": {
+      "message": "Iniciar sesión"
+   },
+   "chrome_app_welcome_message": {
+      "message": "Mantén conversaciones privadas y en grupo con texto, fotos, archivos GIF, voz, vídeo y mucho más."
+   },
+   "chrome_app_window_title": {
+      "message": "Google Hangouts - $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_ext_cannot_connect": {
+      "message": "No es posible conectarse a Google. Comprueba tu conexión a Internet."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts anima las conversaciones con fotos, emojis e incluso con videollamadas de grupo gratis."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Comentarios"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Danos tu opinión"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "te ha invitado a la videollamada de una conversación en grupo"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Danos tu opinión"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "No ha iniciado sesión"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Colocar Hangouts encima de otras ventanas"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "te está llamando a través de Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Habilitar en segundo plano"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Iniciar sesión en Hangouts cuando se inicie Chrome"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Estado: conectado\nMensajes no vistos"
+   },
+   "chrome_hangouts_short_name": {
+      "message": "Hangouts de Google"
+   },
+   "quasar_answer_button_text": {
+      "message": "Responder"
+   },
+   "quasar_button_apply": {
+      "message": "Aplicar"
+   },
+   "quasar_button_cancel": {
+      "message": "Cancelar"
+   },
+   "quasar_button_save": {
+      "message": "Aceptar"
+   },
+   "quasar_chat_title": {
+      "message": "$1 dice...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Haz clic para ir a la página..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Rechazar"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Cancelar"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Plataforma:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Declaración de privacidad"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "La descripción, la información del producto, tu dirección de correo electrónico y algunos datos adicionales se enviarán a Google. Consulta las Condiciones de servicio de Google Feedback. Al enviar este contenido, autorizas a Google a utilizarlo para mejorar sus productos y servicios. Consulta la Política de Privacidad."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Danos tu opinión"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Información del sistema"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "User Agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Del chat de grupo..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 está en un Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Ayuda"
+   },
+   "quasar_label_all_notification": {
+      "message": "Inhabilitar las notificaciones"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Inhabilitar las notificaciones mediante chat"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Duración del tiempo de espera (en segundos):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Permitir que se agote el tiempo de espera de las notificaciones de chat automáticamente"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Mostrar el icono en la bandeja del sistema"
+   },
+   "quasar_legend_notifications": {
+      "message": "Notificaciones"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Aplicación"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Danos tu opinión"
+   },
+   "quasar_menutext_quit": {
+      "message": "Salir"
+   },
+   "quasar_menutext_settings": {
+      "message": "Opciones"
+   },
+   "quasar_menutext_signout": {
+      "message": "Cerrar sesión"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Desconocido"
+   },
+   "quasar_sign_in": {
+      "message": "Iniciar sesión"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Inicia sesión para empezar a hablar con tus amigos"
+   },
+   "quasar_tip_connected": {
+      "message": "Estado: conectado"
+   },
+   "quasar_tip_connecting": {
+      "message": "Estado: conectándose"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Estado: desconectada"
+   },
+   "quasar_tip_not_load": {
+      "message": "Estado: error de carga"
+   },
+   "quasar_tip_not_login": {
+      "message": "Estado: no has accedido a la aplicación."
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Estado: volviendo a conectarse"
+   },
+   "quasar_try_now": {
+      "message": "Intentar ahora"
+   },
+   "quasar_video_details": {
+      "message": "te está llamando a través del chat de vídeo"
+   },
+   "quasar_video_title": {
+      "message": "Videollamada de $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "te está llamando"
+   },
+   "quasar_voice_title": {
+      "message": "Llamada de voz de $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}
