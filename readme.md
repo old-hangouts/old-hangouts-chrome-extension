@@ -1,7 +1,7 @@
 # Old Hangouts Chrome extension
 
 ## Description
-Revert back to the old hangouts extension (with floating window chat)
+Revert back to the old hangouts extension (with floating window chat) <br/>
 ![Alt text](screenshots/chrome.png "Old chrome extension")
 
 ## Installation (see screenshots below)
@@ -23,15 +23,15 @@ Revert back to the old hangouts extension (with floating window chat)
 * Download this repository (or clone it)
 * Open Chrome and go to chrome://extensions
 * Make sure "Developer Mode" is checked
-* Click "Load Unpacked Extension..."
+* Click "Load Unpacked Extension..." <br/>
 ![Alt text](screenshots/step1.png "Step 1")
 
 ### Step 2
-* Find the unzipped/cloned directory
+* Find the unzipped/cloned directory <br/>
 ![Alt text](screenshots/step2.png "Step 2")
 
 ### Step 3
-* Make sure you disable the official extension
+* Make sure you disable the official extension <br/>
 ![Alt text](screenshots/step3.png "Step 3")
 
 
