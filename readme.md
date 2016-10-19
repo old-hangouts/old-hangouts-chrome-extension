@@ -14,3 +14,7 @@ Revert back to the old hangouts extension (with floating window chat)
 ## Authors
 * Patricia MAYO TEJEDOR & Sandoche ADITTANE
 * Made from the Google Chrome Extension
+
+## Donations
+Feel free to buy us beers :)
+https://www.paypal.me/happybots
