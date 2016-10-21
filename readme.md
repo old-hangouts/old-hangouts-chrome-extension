@@ -15,7 +15,7 @@ Revert back to the old hangouts extension (with floating window chat) <br/>
 ## Notice you might get two alerts
 * Dismiss the disable update Hangouts alert
 * Don't disable developer mode extensions
-
+* Don't move or delete the folder you added in Chrome (otherwise you will have to redo the installation steps)
 
 
 ## Installation - step by step
