@@ -12,9 +12,9 @@ Revert back to the old hangouts extension (with floating window chat) <br/>
 * Find the unzipped/cloned directory
 * Make sure you disable the official extension
 
-## Notice you might get two alerts
-* Dismiss the disable update Hangouts alert
-* Don't disable developer mode extensions
+## Notice
+* Dismiss the disable update Hangouts alert (included in the floating list of contacts)
+* Don't disable developer mode extensions (you might see some alerts from Chrome)
 * Don't move or delete the folder you added in Chrome (otherwise you will have to redo the installation steps)
 
 
