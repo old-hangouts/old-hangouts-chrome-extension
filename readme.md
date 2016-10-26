@@ -8,7 +8,7 @@ Revert back to the old hangouts extension (with floating window chat) <br/>
 The [Chrome team has confirmed](https://bugs.chromium.org/p/chromium/issues/detail?id=467808) that starting from Chrome version 54 and above panels will not be supported.
 Panels support is the feature in charge of docking floating windows in hangouts
 
-![Alt text](screenshots/chrome.png "Chromium together with Chrome logos")
+![Alt text](screenshots/chromium.png "Chromium together with Chrome logos")
 
 **Solution:** Follow instructions to **[Install Chromium version 52.0.2743.0](https://github.com/old-hangouts/Chromium-52.0.2743.0)** so Chromium (older open source version of Chrome that supports panels) and Chrome (with most recent updates) can be running at the same time. We highly advice not to stop updating your Chrome browser
 
