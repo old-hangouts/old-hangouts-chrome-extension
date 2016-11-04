@@ -4,7 +4,7 @@
 Revert back to the old hangouts extension (with floating window chat) <br/>
 The old hangouts chrome extension is not working since the 2nd of November but we are trying to fix it (and feel free to contribute).
 
-## Workarounds (with the new chrome extension)
+## Workaround (with the new chrome extension)
 1. Install the new chrome app/extension - https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl
 2. Click on the menu (3 bars next to your name)
 3. In the settings menu, scroll down to the "Hangouts App Settings" section.
