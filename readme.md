@@ -5,15 +5,11 @@ Revert back to the old hangouts extension (with floating window chat) <br/>
 The old hangouts chrome extension is not working since the 2nd of November but we are trying to fix it (and feel free to contribute).
 
 ## Workarounds (with the new chrome extension)
-The current workaround is to install an "always on top" app with the new chrome extension.
-Here are some "always on top" app suggestions. If you have other idea feel free to share them on the opened issues.
-
-### Windows
-* Turobotop - http://www.savardsoftware.com/turbotop/
-* AutoHotkey - https://www.autohotkey.com/
-
-### Max OSX
-Coming soon
+1. Install the new chrome app/extension - https://chrome.google.com/webstore/detail/google-hangouts/knipolnnllmklapflnccelgolnpehhpl
+2. Click on the menu (3 bars next to your name)
+3. In the settings menu, scroll down to the "Hangouts App Settings" section.
+4. Enable "Always on top"
+5. Use the arrow to open a conversation in a seperate window
 
 ## Solution (not working since the 2nd of November 2016)
 You can always fork this repository and do the following tutorial if you want to try to solve the issue.
